@@ -18,17 +18,11 @@ _
 TBD
 
 # Installation
-pff api in .env file
-import os
-import json
-import shutil
-import asyncio
-import aiohttp
-from tenacity import retry, stop_after_attempt, wait_exponential
-import pandas as pd
-import time 
-import duckdb
-from dotenv import load_dotenv
+aiohttp
+tenacity
+pandas
+duckdb
+python-dotenv
 
 
 # Running analysis 
