@@ -1,0 +1,5 @@
+aiohttp
+tenacity
+pandas
+duckdb
+python-dotenv
