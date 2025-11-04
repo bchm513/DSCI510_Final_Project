@@ -26,6 +26,8 @@ pandas
 # Running analysis 
 I am currently working to clean up the data and find specific positions that have enough data to make generalizations about. I will then deploy my models of choice and create visuals to depict the features most tied to player success
 
+# Difficulties/Issues
+No real issues or difficulties, but I have changed the scope of my project. I have expanded it because only focusing on the discipline stat seemed too limiting when I was considering how to develop my models.
 
 From `src/` directory run:
 
