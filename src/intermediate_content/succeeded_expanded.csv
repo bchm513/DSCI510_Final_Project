@@ -1,275 +1,4 @@
 pff_player_id,player_name,prev_season,current_season,prev_position,current_pos,prev_school,current_school,wick_score,capped_wick_score,prev_def_snaps,current_def_snaps,prev_off_snaps,current_off_snaps
-149182,C.J. Ogbonna,2022,2023,QB,QB,Southeast Missouri State,Buffalo,52.7,44.4,,,81.0,130.0
-169984,Darian Mensah,2024,2025,QB,QB,Tulane,Duke,73.2,73.8,,,765.0,200.0
-122938,Chandler Morris,2024,2025,QB,QB,North Texas,Virginia,55.4,54.8,,,887.0,175.0
-77655,Ben Bryant,2022,2023,QB,QB,Cincinnati,Northwestern,57.9,56.3,,,656.0,539.0
-146054,Jaylen Henderson,2022,2023,QB,QB,Fresno State,Texas A&M,72.5,81.3,,,6.0,203.0
-141259,Quali Conley,2023,2024,HB,HB,San Jose State,Arizona,73.7,78.4,,,423.0,542.0
-150195,Kylin James,2023,2024,HB,HB,Central Arkansas,UNLV,48.1,55.6,,,376.0,219.0
-123472,Noah Whittington,2021,2022,HB,HB,Western Kentucky,Oregon,50.8,53.7,,,393.0,354.0
-169178,Mel Brown,2023,2024,HB,HB,Gardner-Webb,Connecticut,38.5,44.5,,,340.0,256.0
-147376,Nate Carter,2022,2023,HB,HB,Connecticut,Michigan State,45.4,47.3,,,137.0,506.0
-139386,Jaylon Jackson,2023,2024,HB,HB,Eastern Michigan,Iowa State,35.5,37.4,,,426.0,233.0
-77800,Kobe Lewis,2021,2022,HB,HB,Central Michigan,Purdue,47.3,51.8,,,,144.0
-57490,Xazavian Valladay,2021,2022,HB,HB,Wyoming,Arizona State,50.4,54.5,,,605.0,649.0
-160110,Andrew Armstrong,2022,2023,WR,WR,East Texas A&M,Arkansas,70.6,70.8,1.0,,667.0,711.0
-160756,Kevin Coleman,2022,2023,WR,WR,Jackson State,Louisville,67.7,67.9,1.0,2.0,489.0,389.0
-104059,Da'Quan Felton,2022,2023,WR,WR,Norfolk State,Virginia Tech,50.1,49.7,,1.0,491.0,632.0
-157048,Omari Kelly,2024,2025,WR,WR,Middle Tennessee,Michigan State,48.7,48.6,1.0,,525.0,155.0
-144279,Eric Rivers,2024,2025,WR,WR,Florida International,Georgia Tech,56.7,56.8,,,614.0,124.0
-74267,Melquan Stovall,2022,2023,WR,WR,Colorado State,Arizona State,49.9,51.3,,,168.0,387.0
-100273,Tyrone Broden,2022,2023,WR,WR,Bowling Green,Arkansas,45.5,46.7,,,537.0,387.0
-124211,Ja'Mori Maclin,2023,2024,WR,WR,North Texas,Kentucky,55.8,55.7,,1.0,854.0,393.0
-145976,Eric McAlister,2023,2024,WR,WR,Boise State,TCU,57.2,57.2,,,544.0,412.0
-105723,Brett Buckman,2022,2023,WR,WR,Delaware,Connecticut,50.9,50.5,,,364.0,718.0
-163334,Justus Ross-Simmons,2023,2024,WR,WR,Colorado State,Syracuse,59.5,59.4,,,714.0,161.0
-97061,Josh Kelly,2022,2023,WR,WR,Fresno State,Washington State,63.7,65.7,,,186.0,716.0
-109517,Solomon Davis,2023,2024,WR,WR,Valparaiso,Central Michigan,49.3,48.5,,,636.0,307.0
-162635,Devan Williams,2023,2024,WR,WR,Tulsa,Houston,45.3,44.7,,,473.0,308.0
-123689,Jabre Barber,2023,2024,WR,WR,Troy,Texas A&M,57.9,58.6,1.0,1.0,537.0,444.0
-160766,Travis Hunter,2022,2023,CB,CB,Jackson State,Colorado,77.8,78.3,503.0,592.0,87.0,452.0
-121783,Caden Prieskorn,2022,2023,TE,TE,Memphis,Mississippi,53.5,56.3,,,838.0,700.0
-97181,Dayton Wade,2021,2022,WR,WR,Western Kentucky,Mississippi,52.6,54.2,,,16.0,521.0
-149236,Elijah Smoot,2022,2023,WR,WR,Tennessee-Martin,Liberty,37.3,37.4,,,598.0,258.0
-97215,Lincoln Victor,2020,2021,WR,WR,Hawaii,Washington State,54.2,54.9,,1.0,13.0,207.0
-78014,Mark Pope,2022,2023,WR,WR,Jackson State,Massachusetts,42.5,43.6,,,28.0,492.0
-78120,Randy Fields Jr.,2022,2023,WR,WR,Tennessee-Martin,Charlotte,28.0,28.0,,,185.0,108.0
-78831,Zack Dobson,2022,2023,WR,WR,Tennessee State,Middle Tennessee,59.5,59.4,,1.0,182.0,191.0
-77955,D'Marcus Adams,2021,2022,WR,WR,Florida Atlantic,Syracuse,28.0,28.0,,,34.0,135.0
-41966,Devaughn Cooper,2020,2021,WR,WR,UTEP,Syracuse,51.2,51.9,,,267.0,261.0
-61342,Ezrah Archie,2021,2022,WR,WR,Monmouth,Georgia Southern,38.9,38.9,,,156.0,167.0
-102929,Kaylon Geiger,2020,2021,WR,WR,Troy,Texas Tech,65.3,68.8,,,522.0,616.0
-97867,Broc Thompson,2020,2021,WR,WR,Marshall,Purdue,49.8,52.0,,,157.0,416.0
-133220,Robert Ferrel,2021,2022,WR,WR,Incarnate Word,Washington State,60.7,60.7,,,643.0,446.0
-149832,Javin Whatley,2024,2025,WR,WR,Chattanooga,Arizona,63.2,63.2,,,701.0,118.0
-192936,Matthew Henry,2024,2025,WR,WR,Western Illinois,Western Kentucky,60.1,60.1,,,687.0,132.0
-123276,Sincere Brown,2024,2025,WR,WR,Campbell,Colorado,50.2,50.2,,,713.0,105.0
-177032,Gavin Harris,2023,2024,TE,TE,Howard,Central Michigan,54.2,56.5,,,446.0,431.0
-141520,Jett Carpenter,2024,2025,TE,TE,Eastern Washington,Nevada,61.3,61.3,1.0,,485.0,128.0
-156914,Justin Holmes,2024,2025,TE,TE,Marshall,Pittsburgh,39.5,41.4,,,175.0,112.0
-102499,Chris Carter,2022,2023,TE,TE,Howard,Northern Illinois,51.4,51.4,,,303.0,298.0
-60955,Brian Polendey,2021,2022,TE,TE,Colorado State,West Virginia,19.8,20.2,,,159.0,436.0
-52207,Jaeger Bull,2021,2022,TE,TE,Rice,Wake Forest,39.8,40.4,,,356.0,228.0
-82518,Logan Kendall,2021,2022,TE,TE,Idaho,Utah,42.3,44.2,40.0,,281.0,396.0
-59944,Jacob Brammer,2021,2022,T,T,North Texas,Vanderbilt,59.3,59.3,,,1043.0,718.0
-77518,Marques Cox,2022,2023,T,T,Northern Illinois,Kentucky,66.4,66.4,,,198.0,716.0
-157867,Malachi Carney,2024,2025,T,T,South Alabama,Georgia Tech,42.4,42.4,,,855.0,156.0
-173280,Melvin Siani,2024,2025,T,T,Temple,Wake Forest,60.4,60.4,,,600.0,187.0
-165008,Rahtrel Perry,2024,2025,T,T,Central Connecticut State,Maryland,83.1,83.1,,,902.0,166.0
-102273,Pat McMurtrie,2023,2024,T,T,Holy Cross,James Madison,59.2,59.2,,,554.0,769.0
-64284,Jack Badovinac,2020,2021,G,G,Colgate,Illinois,66.6,66.6,,,135.0,582.0
-77352,Avery Jones,2022,2023,C,C,East Carolina,Auburn,62.7,62.7,,,852.0,402.0
-87427,Kyle Hergel,2022,2023,G,G,Texas State,Boston College,81.4,81.4,,,850.0,928.0
-97646,Bula Schmidt,2022,2023,C,C,Fresno State,UCF,56.2,56.2,,,946.0,504.0
-98056,Mike Ciaffoni,2021,2022,G,G,Colorado State,Rutgers,50.7,50.7,60.0,,335.0,302.0
-109272,Ben Johnson,2021,2022,G,G,Marist,East Carolina,62.7,62.7,,,555.0,105.0
-156763,Zarian McGill,2024,2025,C,C,Louisiana Tech,Colorado,62.8,62.8,,,429.0,180.0
-150349,Jacob Bayer,2022,2023,C,C,Lamar,Arkansas State,70.8,70.8,,,762.0,757.0
-121928,Branson Hickman,2023,2024,C,C,SMU,Oklahoma,63.0,63.0,,,952.0,201.0
-129405,Reid Williams,2024,2025,C,C,Chattanooga,UNLV,70.0,70.0,,,781.0,190.0
-144189,Bernard Gooden,2024,2025,DI,DI,USF,LSU,51.8,51.8,594.0,117.0,,
-130507,CJ West,2023,2024,DI,DI,Kent State,Indiana,59.2,59.2,468.0,420.0,,
-172339,Terry Webb,2024,2025,DI,DI,Texas State,SMU,45.6,45.6,415.0,137.0,,
-176681,Khalil Laufau,2024,2025,DI,DI,Washington State,Houston,36.8,36.8,371.0,150.0,,
-100722,De'Braylon Carroll,2023,2024,DI,DI,Rice,Texas Tech,56.8,56.8,680.0,364.0,,
-167022,Cameron Roetherford,2023,2024,DI,DI,Arkansas-Pine Bluff,Cincinnati,48.8,48.8,325.0,133.0,3.0,
-146014,Grady Kelly,2023,2024,DI,DI,Colorado State,Florida State,50.8,50.8,536.0,204.0,,
-156932,Sterling Webb,2023,2024,DI,DI,New Mexico State,Missouri,33.2,33.2,482.0,283.0,,
-98144,Keivie Rose,2022,2023,DI,DI,Louisiana Tech,Arkansas,36.1,36.1,647.0,301.0,,
-128381,James Hansen,2023,2024,DI,DI,Nevada,Texas Tech,22.3,22.3,386.0,143.0,,
-145384,Chazz Wallace,2022,2023,DI,DI,Old Dominion,Colorado,32.4,32.4,358.0,253.0,,
-101975,Kyler Baugh,2021,2022,DI,DI,Houston Baptist,Minnesota,30.4,30.4,638.0,449.0,3.0,
-145655,Cashius Howell,2023,2024,ED,ED,Bowling Green,Texas A&M,59.4,59.4,532.0,485.0,,
-151205,Tyrin Bradley,2022,2023,ED,ED,Abilene Christian,West Virginia,44.0,44.0,622.0,327.0,,
-145527,Trey Moore,2023,2024,ED,ED,UTSA,Texas,69.3,69.3,502.0,674.0,,
-98162,Elijah Alston,2023,2024,ED,ED,Marshall,Miami (FL),44.4,44.4,475.0,272.0,,
-100324,Blaine Spires,2024,2025,ED,ED,Utah State,Pittsburgh,42.9,42.9,178.0,127.0,,
-144409,Keith Cooper Jr.,2023,2024,ED,ED,Tulane,Houston,39.8,39.8,636.0,627.0,,1.0
-150230,Syrus Webster,2023,2024,ED,ED,Utah Tech,Washington State,36.2,36.2,709.0,512.0,1.0,
-101963,Kamari Stephens,2022,2023,ED,ED,Florida A&M,Jacksonville State,39.8,39.8,507.0,264.0,,
-128136,Andy Nwaoko,2023,2024,ED,ED,Stony Brook,Middle Tennessee,27.2,27.2,245.0,105.0,,
-121837,Jacob Busic,2023,2024,ED,ED,Navy,UCLA,28.7,28.7,135.0,276.0,,
-77164,Anthony Goodlow,2022,2023,ED,ED,Tulsa,Oklahoma State,48.8,48.8,659.0,568.0,,
-101903,Chance Main,2021,2022,ED,ED,Incarnate Word,Colorado,44.3,44.3,,362.0,,
-82299,Davoan Hawkins,2022,2023,ED,ED,Tennessee State,West Virginia,21.8,21.8,496.0,152.0,,
-79454,Josh Carr Jr.,2020,2021,ED,ED,Southeastern Louisiana,Southern Miss,51.0,51.0,,553.0,,
-56862,Arnold Ebiketie,2020,2021,ED,ED,Temple,Penn State,66.7,66.7,340.0,741.0,,
-101226,Jacoby Windmon,2021,2022,LB,LB,UNLV,Michigan State,50.2,50.2,795.0,456.0,,1.0
-57759,Jerry Roberts,2020,2021,LB,LB,Bowling Green,Arizona,33.8,33.8,285.0,309.0,,
-164530,Melkart Abou-Jaoude,2024,2025,ED,ED,Delaware,North Carolina,50.8,50.8,402.0,125.0,,
-145978,Andrew Simpson,2024,2025,LB,LB,Boise State,North Carolina,65.0,65.0,506.0,165.0,,
-147861,Jack Kelly,2023,2024,LB,LB,Weber State,BYU,58.5,58.5,631.0,728.0,3.0,1.0
-143026,Owen Goss,2023,2024,S,S,Colgate,Arizona,38.8,38.8,694.0,583.0,1.0,
-104514,Jason Johnson,2021,2022,LB,LB,Eastern Illinois,UCF,29.8,29.8,698.0,867.0,,
-105386,Tyler Jackson,2022,2023,LB,LB,Lamar,Northern Illinois,27.0,27.0,654.0,405.0,,
-164824,Gary Bryant III,2024,2025,LB,LB,South Dakota,Syracuse,38.1,38.1,785.0,141.0,,
-150093,Micah Davey,2024,2025,LB,LB,McNeese State,UTEP,43.9,43.9,480.0,146.0,,
-55046,Devonni Reed,2021,2022,S,S,Central Michigan,South Carolina,62.6,62.4,726.0,373.0,,
-77192,Jireh Wilson,2022,2023,S,S,East Carolina,UCF,61.4,61.1,540.0,485.0,1.0,
-97141,Antavious Lane,2022,2023,S,S,Georgia State,North Carolina,58.6,58.2,808.0,409.0,,
-97703,M.J. Griffin,2021,2022,S,S,Temple,Louisville,60.8,60.2,634.0,504.0,,
-101768,Irshaad Davis,2022,2023,S,S,Alabama State,Troy,78.4,78.4,641.0,602.0,1.0,
-121669,Isaiah Cash,2023,2024,S,S,Houston Christian,Sam Houston State,39.7,39.7,574.0,881.0,,
-144393,Jalen McMurray,2023,2024,CB,CB,Temple,Tennessee,54.4,54.4,742.0,264.0,,
-145611,Darrian Lewis,2024,2025,S,S,Akron,West Virginia,55.7,55.5,768.0,145.0,1.0,
-156406,Phillip Dunnam,2024,2025,S,S,Florida Atlantic,UCF,61.4,61.4,590.0,113.0,,
-157942,Devin Grant,2023,2024,S,S,Buffalo,Syracuse,58.7,58.4,666.0,622.0,,
-174758,Devin Dye,2023,2024,S,S,Utah State,Kansas,65.3,65.3,627.0,163.0,1.0,
-150058,Brian Mayes,2022,2023,CB,CB,Incarnate Word,UAB,54.4,54.4,816.0,597.0,,
-76604,Capone Blue,2023,2024,CB,CB,Kent State,Wake Forest,44.8,44.8,609.0,247.0,,
-97539,Quincy Riley,2021,2022,CB,CB,Middle Tennessee,Louisville,68.4,68.4,514.0,437.0,,
-101788,Jonathan Jones,2022,2023,CB,CB,Campbell,East Carolina,68.7,68.7,592.0,187.0,,
-103567,Willie Roberts,2021,2022,CB,CB,Stephen F. Austin,Louisiana Tech,66.0,66.0,567.0,686.0,,
-106697,Dom Jones,2022,2023,CB,CB,North Dakota State,Colorado State,61.1,61.1,495.0,536.0,,
-122146,Fred Davis II,2024,2025,CB,CB,Jacksonville State,Northwestern,65.0,65.1,484.0,164.0,,
-146043,Julian Neal,2024,2025,CB,CB,Fresno State,Arkansas,67.0,67.0,548.0,160.0,,
-147394,Malcolm Bell,2024,2025,CB,CB,Connecticut,Michigan State,55.6,55.6,385.0,153.0,,
-150703,Kolbey Taylor,2023,2024,CB,CB,Wyoming,Vanderbilt,38.1,38.1,536.0,373.0,,
-156676,Matthew McDoom,2024,2025,CB,CB,Coastal Carolina,Cincinnati,63.1,63.1,547.0,149.0,,
-175720,Michael Coats Jr.,2024,2025,CB,CB,Nevada,West Virginia,64.7,64.7,850.0,135.0,,
-165156,Boogie Trotter,2024,2025,CB,CB,Tennessee State,Marshall,73.6,73.6,867.0,128.0,,
-159892,Jason Chambers,2023,2024,CB,CB,North Carolina Central,Appalachian State,58.9,58.9,670.0,506.0,,
-159729,Roman Pearson,2024,2025,CB,CB,Bucknell,Ball State,57.6,57.6,679.0,139.0,,
-83197,Dustin Johnson,2023,2024,S,S,Northern Colorado,Ohio,51.3,51.3,633.0,764.0,1.0,
-150423,Pierre Royster,2024,2025,S,S,St. Francis (PA),UAB,37.6,37.6,540.0,164.0,,
-158433,Thomas Castellanos,2022,2023,QB,QB,UCF,Boston College,47.7,44.8,,,61.0,887.0
-150302,Matthew Caldwell,2023,2024,QB,QB,Gardner-Webb,Troy,45.7,35.3,,,325.0,497.0
-98002,Grayson McCall,2023,2024,QB,QB,Coastal Carolina,North Carolina State,86.3,88.1,,,471.0,157.0
-78501,Jeff Undercuffler,2021,2022,QB,QB,Albany,Akron,24.1,22.2,,,519.0,226.0
-128176,Logan Fife,2024,2025,QB,QB,Montana,New Mexico State,37.6,38.0,,,576.0,198.0
-77656,Tanner Mordecai,2022,2023,QB,QB,SMU,Wisconsin,69.9,70.7,,,871.0,676.0
-40110,McKenzie Milton,2020,2021,QB,QB,UCF,Florida State,51.7,55.6,,,,279.0
-99476,Maverick McIvor,2024,2025,QB,QB,Abilene Christian,Western Kentucky,60.0,60.0,,,917.0,198.0
-192135,Baylor Hayes,2024,2025,QB,QB,East Tennessee State,Tulsa,35.8,35.8,,,80.0,110.0
-158966,Jack Layne,2024,2025,QB,QB,Idaho,New Mexico,43.4,43.4,,,335.0,206.0
-160350,NaQuari Rogers,2024,2025,HB,HB,New Mexico,Utah,34.5,37.1,1.0,,158.0,105.0
-102382,Jacory Croskey-Merritt,2022,2023,HB,HB,Alabama State,New Mexico,61.4,63.4,,,328.0,433.0
-123274,Brian Battie,2022,2023,HB,HB,USF,Auburn,45.4,46.3,,,431.0,124.0
-145632,Carson Steele,2022,2023,HB,HB,Ball State,UCLA,67.9,69.0,,,684.0,424.0
-104852,Donavyn Lester,2022,2023,HB,HB,William & Mary,UNLV,39.6,39.6,,,184.0,345.0
-122630,Emani Bailey,2021,2022,HB,HB,Louisiana,TCU,74.7,74.7,,,232.0,101.0
-159654,Jordan Gant,2024,2025,HB,HB,Tennessee State,Akron,24.7,24.8,,,253.0,116.0
-161339,Rahkeem Smith,2023,2024,WR,WR,Delaware State,Bowling Green,62.2,61.8,,,256.0,341.0
-142935,Dymere Miller,2023,2024,WR,WR,Monmouth,Rutgers,59.7,59.7,,,599.0,798.0
-142483,Davon Wells,2023,2024,WR,WR,LIU,Louisiana-Monroe,53.2,52.7,,,562.0,337.0
-145441,Fred Farrier II,2023,2024,WR,WR,UAB,Kentucky,51.4,51.2,,1.0,490.0,299.0
-102637,Jaden Smith,2023,2024,WR,WR,Tarleton State,Nevada,66.5,66.5,,,360.0,845.0
-102578,Jakobie Keeney-James,2023,2024,WR,WR,Eastern Washington,Massachusetts,65.1,65.0,,,202.0,789.0
-144234,Will Pauling,2022,2023,WR,WR,Cincinnati,Wisconsin,51.2,51.1,,,125.0,660.0
-156582,Cyrus Allen,2023,2024,WR,WR,Louisiana Tech,Texas A&M,54.2,54.0,,,647.0,413.0
-149817,Andrew McElroy,2023,2024,WR,WR,St. Thomas,Northern Illinois,55.9,55.3,1.0,,370.0,331.0
-106748,C.J. Charleston,2023,2024,WR,WR,Youngstown State,Michigan,57.9,57.4,,,514.0,147.0
-123709,Tez Johnson,2022,2023,WR,WR,Troy,Oregon,69.4,71.6,,,350.0,504.0
-84401,Isaiah Hamilton,2022,2023,WR,WR,San Jose State,Washington State,52.3,54.0,,,117.0,258.0
-100894,Jacob Cowing,2021,2022,WR,WR,UTEP,Arizona,69.5,71.8,,,686.0,749.0
-87662,Jeremiah Hixon,2022,2023,WR,WR,Alabama State,New Mexico,73.3,73.3,,,489.0,465.0
-159703,Malik Baker,2022,2023,WR,WR,Tennessee-Martin,Charlotte,30.5,30.5,,,16.0,110.0
-105004,Shawn Harris Jr.,2022,2023,WR,WR,Stony Brook,Massachusetts,40.1,40.1,,,467.0,142.0
-147647,Charles Brown,2021,2022,WR,WR,Montana State,Texas State,44.7,44.7,,,48.0,430.0
-146387,Keontez Lewis,2024,2025,WR,WR,Southern Illinois,Oklahoma,37.4,37.4,,,512.0,171.0
-61271,Matt Landers,2021,2022,WR,WR,Toledo,Arkansas,53.1,54.7,,,211.0,836.0
-102567,Tyler Hudson,2021,2022,WR,WR,Central Arkansas,Louisville,91.3,91.3,,,639.0,724.0
-102544,Brandon Sanders,2020,2021,WR,WR,Bucknell,Rutgers,51.4,53.5,,,232.0,251.0
-165302,Colin Chase,2024,2025,WR,WR,St. Thomas,Temple,45.8,45.8,,,549.0,159.0
-170781,Danny Scudero,2024,2025,WR,WR,Sacramento State,San Jose State,61.9,61.9,,,464.0,129.0
-145365,Levi Wentz,2024,2025,WR,WR,Albany,Kansas,41.3,41.3,1.0,,563.0,107.0
-177939,Zion Booker,2024,2025,WR,WR,Western Carolina,Tulsa,70.7,70.7,,,394.0,141.0
-164014,Gerard Bullock Jr.,2024,2025,TE,TE,Tennessee State,Kennesaw State,55.7,55.7,,,755.0,172.0
-148960,Justin Cayenne,2024,2025,TE,TE,Pennsylvania,Florida International,41.3,41.3,,,437.0,103.0
-145631,Brady Hunt,2023,2024,TE,TE,Ball State,South Carolina,37.2,39.2,,,,149.0
-98358,Joshua Simon,2022,2023,TE,TE,Western Kentucky,South Carolina,63.7,66.3,,1.0,348.0,393.0
-148074,Tyce Ferrell,2023,2024,TE,TE,Indiana State,Ball State,37.4,44.0,,,360.0,228.0
-141877,Connor Briggs,2023,2024,TE,TE,Southeastern Louisiana,Miami (OH),33.9,39.9,,,266.0,121.0
-109367,Zion Carter,2022,2023,TE,TE,Dartmouth,Buffalo,29.0,29.0,,,148.0,158.0
-121508,Brady Wilson,2024,2025,C,C,UAB,Virginia,68.1,68.5,,,863.0,181.0
-102326,Allen Jones Jr.,2023,2024,T,T,Prairie View A&M,Toledo,44.8,44.8,,,249.0,579.0
-108533,Tedi Kushi,2022,2023,T,T,LIU,Western Michigan,66.3,66.3,,,707.0,414.0
-133226,Nash Jones,2022,2023,T,T,Incarnate Word,Texas State,66.3,66.3,,,944.0,397.0
-148009,Kyrik Mason,2023,2024,T,T,Monmouth,Georgia State,82.0,82.0,,,566.0,113.0
-185813,Brandon Sneh,2024,2025,T,T,Wagner,UAB,76.4,76.4,,,586.0,201.0
-123340,Derrell Bailey Jr.,2024,2025,T,T,East Tennessee State,Georgia State,69.4,69.4,,,788.0,178.0
-177806,Jacob Russell,2024,2025,T,T,Valparaiso,Central Michigan,57.7,57.7,,,612.0,132.0
-142968,Ajani Cornelius,2022,2023,T,T,Rhode Island,Oregon,70.9,70.9,,,720.0,899.0
-78371,Jacob Peace,2021,2022,G,G,Virginia Military Institute,Florida International,38.3,38.3,,,741.0,659.0
-98061,Jack Bailey,2022,2023,G,G,Kent State,Colorado,62.4,62.4,,,880.0,753.0
-100779,Danny Corbett,2021,2022,G,G,Campbell,Georgia Southern,61.3,61.3,,,476.0,160.0
-130408,Michael Ford Jr.,2020,2021,G,G,Buffalo,Kansas,72.4,72.4,,,17.0,727.0
-133127,Walter Young Bear,2024,2025,G,G,Tulsa,West Virginia,62.0,62.0,,,907.0,214.0
-147012,Jordan Spasojevic-Moko,2024,2025,G,G,Charlotte,California,61.5,61.5,,,562.0,160.0
-147180,Peyton Dunn,2022,2023,G,G,Louisiana-Monroe,Houston,48.8,48.8,,,615.0,115.0
-158004,Davion Carter,2023,2024,G,G,Memphis,Texas Tech,75.9,75.9,,,852.0,870.0
-177028,Josiah Chenault,2024,2025,C,C,Howard,Kennesaw State,82.4,82.4,,,663.0,151.0
-106662,Chris Fitzgerald,2023,2024,DI,DI,Youngstown State,James Madison,56.0,56.0,385.0,495.0,,
-121769,Cam'Ron Jackson,2022,2023,DI,DI,Memphis,Florida,41.4,41.4,577.0,281.0,,
-148483,Bryce Ganious,2022,2023,DI,DI,Villanova,Wake Forest,42.3,42.3,631.0,421.0,,
-145383,Alonzo Ford Jr.,2023,2024,DI,DI,Old Dominion,Penn State,31.3,31.3,,186.0,,
-105249,Nathan Kapongo,2023,2024,DI,DI,New Hampshire,Akron,44.7,44.7,469.0,520.0,1.0,
-128421,Gavin Meyer,2023,2024,DI,DI,Wyoming,USC,55.3,55.3,351.0,453.0,,
-154018,Naejuan Barber,2023,2024,DI,DI,South Carolina State,Coastal Carolina,30.5,30.5,400.0,293.0,,
-98604,Marcus Bragg,2021,2022,ED,ED,Western Kentucky,Auburn,34.3,34.3,400.0,387.0,,
-82430,Mohamed Diallo,2020,2021,ED,ED,Central Michigan,Arizona,54.7,54.7,207.0,324.0,,
-155869,Eric O'Neill,2023,2024,ED,ED,LIU,James Madison,71.0,71.0,716.0,589.0,1.0,
-104402,Khairi Manns,2022,2023,ED,ED,Maine,Colorado,61.9,61.9,363.0,135.0,,
-148771,Malin White,2023,2024,ED,ED,Cornell,Buffalo,45.9,45.9,285.0,273.0,,5.0
-142424,John Pius,2023,2024,ED,ED,William & Mary,Wisconsin,62.6,62.6,627.0,334.0,,
-123287,Tramel Logan,2023,2024,ED,ED,USF,Louisville,47.1,47.1,523.0,307.0,,
-159893,Kendrick DuJour,2023,2024,ED,ED,North Carolina Central,Sam Houston State,58.0,58.0,296.0,209.0,,
-146179,Tre Smith,2023,2024,ED,ED,San Jose State,Arizona,51.6,51.6,690.0,566.0,,
-132404,Brice Bass,2023,2024,ED,ED,Gardner-Webb,Texas State,43.6,43.6,441.0,508.0,10.0,
-97960,Richard Kinley,2023,2024,ED,ED,Middle Tennessee,Louisville,36.5,36.5,400.0,124.0,,
-102860,Jamil Muhammad,2022,2023,ED,ED,Georgia State,USC,45.2,45.2,511.0,502.0,,
-104365,Jack Barton,2023,2024,ED,ED,Furman,Connecticut,28.9,28.9,435.0,376.0,5.0,
-122747,Devin Goree,2023,2024,ED,ED,Missouri State,UTEP,20.4,20.4,478.0,155.0,,
-76957,Andre Carter,2022,2023,ED,ED,Western Michigan,Indiana,50.0,50.0,715.0,697.0,,
-104364,Antonio Smith,2022,2023,ED,ED,Tarleton State,Akron,20.9,20.9,,185.0,,
-83724,Daniel Grzesiak,2022,2023,ED,ED,Utah State,Cincinnati,64.1,64.1,810.0,575.0,4.0,
-82645,Eyabi Okie-Anoma,2021,2022,ED,ED,Tennessee-Martin,Michigan,53.0,53.0,308.0,292.0,,
-79348,Kwame Sutton,2022,2023,ED,ED,Austin Peay,Ohio,37.3,37.3,403.0,197.0,,
-133626,Anas Luqman,2024,2025,ED,ED,Arkansas-Pine Bluff,Ohio,31.3,31.3,746.0,144.0,,
-172683,Brayden Manley,2024,2025,ED,ED,Mercer,Georgia Tech,24.6,24.6,573.0,111.0,,
-149576,Finn Claypool,2024,2025,ED,ED,Drake,Fresno State,43.8,43.8,597.0,141.0,,
-175089,Keyshawn James-Newby,2024,2025,ED,ED,Idaho,New Mexico,52.8,52.8,583.0,159.0,,
-122261,Tony Anyanwu,2024,2025,ED,ED,Stephen F. Austin,Rice,39.1,39.1,384.0,118.0,,
-54193,Jaheim Thomas,2022,2023,LB,LB,Cincinnati,Arkansas,46.3,46.3,443.0,528.0,,
-103830,Brevin Randle,2022,2023,LB,LB,Stephen F. Austin,Louisiana Tech,39.3,39.3,96.0,663.0,,
-169223,Max Harris,2024,2025,LB,LB,Texas State,Arizona,48.7,48.7,392.0,140.0,,
-147163,Kendre' Gant,2023,2024,LB,LB,Louisiana,Houston,45.5,45.5,536.0,186.0,,
-122396,Stephen Dix Jr.,2023,2024,LB,LB,Marshall,Arkansas,27.4,27.4,538.0,548.0,,1.0
-98532,Tatum Bethune,2021,2022,LB,LB,UCF,Florida State,45.9,45.9,641.0,502.0,,
-105332,Trimarcus Cheeks,2021,2022,LB,LB,Samford,Houston,28.4,28.4,654.0,287.0,,
-55050,Troy Brown,2021,2022,LB,LB,Central Michigan,Mississippi,72.9,72.9,534.0,565.0,,
-83413,Jaylen Key,2022,2023,S,S,UAB,Alabama,73.6,73.4,521.0,693.0,,
-97144,Malik Fleming,2022,2023,CB,CB,East Carolina,Houston,58.0,57.8,867.0,675.0,,
-97220,Anthony Wilson,2022,2023,S,S,Georgia Southern,West Virginia,59.1,58.8,993.0,787.0,,
-98860,DJ Douglas,2023,2024,S,S,Tulane,Florida,66.0,65.7,652.0,245.0,1.0,
-102465,Shawn Holton,2022,2023,S,S,Incarnate Word,Texas State,50.4,50.4,440.0,862.0,,
-125305,Marques Sigle,2022,2023,CB,CB,North Dakota State,Kansas State,58.4,58.4,232.0,721.0,,
-138115,Jyron Gilmore,2023,2024,CB,CB,Tennessee Tech,Georgia State,47.5,47.5,631.0,779.0,,
-155503,Donald Lee,2023,2024,CB,CB,Grambling State,UAB,29.6,29.6,409.0,230.0,,
-157707,Xavier Smith,2023,2024,S,S,Austin Peay,UTEP,56.7,56.7,594.0,624.0,,1.0
-42620,Brandon Moore,2021,2022,CB,CB,UCF,Nebraska,39.9,40.2,,137.0,,
-75699,Rashad Ajayi,2021,2022,CB,CB,Colorado State,West Virginia,51.5,51.5,754.0,430.0,,
-78999,Marque Collins,2023,2024,CB,CB,Weber State,BYU,46.7,46.7,82.0,725.0,,
-83237,Dylan Wyatt,2022,2023,CB,CB,Cal Poly,Arizona,71.7,71.7,634.0,172.0,,
-83356,Tyrek Funderburk,2022,2023,CB,CB,Richmond,Appalachian State,59.9,59.9,723.0,727.0,,
-97230,Marcus Harris,2023,2024,CB,CB,Idaho,California,54.0,54.0,764.0,802.0,,
-103561,Kamden Garrett,2022,2023,CB,CB,Weber State,BYU,50.5,50.5,576.0,594.0,,
-104234,JT Thompson,2020,2021,CB,CB,Southern Illinois,Boston College,79.7,79.7,633.0,292.0,,
-105068,Tre'Von Jones,2022,2023,CB,CB,Elon,Minnesota,68.4,68.4,580.0,719.0,,
-123734,Davonte Brown,2022,2023,CB,CB,UCF,Miami (FL),71.3,71.3,711.0,180.0,,
-139116,Alex Oliver,2023,2024,CB,CB,Virginia Military Institute,Liberty,34.9,35.0,595.0,330.0,,
-142350,Aamir Hall,2023,2024,CB,CB,Albany,Michigan,46.9,46.9,975.0,511.0,,
-145889,Torrie Cox Jr.,2023,2024,CB,CB,Ohio,Illinois,59.3,59.3,483.0,462.0,,
-157447,Isaiah Brown-Murray,2024,2025,CB,CB,East Carolina,Virginia Tech,54.4,54.4,830.0,112.0,,
-159665,Bryce Phillips,2023,2024,CB,CB,Tennessee State,San Diego State,56.7,56.7,646.0,719.0,,
-163962,Jabari Mack,2024,2025,CB,CB,Jacksonville State,Louisville,64.0,64.0,521.0,117.0,,
-171518,Jaylen Castleberry,2024,2025,CB,CB,Youngstown State,Temple,85.6,85.6,493.0,130.0,,
-131568,Khary Crump,2024,2025,CB,CB,Houston Christian,Rice,57.0,57.0,732.0,159.0,,
-147821,Cameron Broussard,2023,2024,S,S,Sacramento State,Washington,67.9,67.9,609.0,511.0,,
-160124,Ian Conerly-Goodly,2023,2024,S,S,Southeastern Louisiana,Troy,71.0,71.0,690.0,462.0,,
-162994,Tyson Flowers,2024,2025,S,S,Rice,Virginia Tech,61.7,61.7,544.0,126.0,,
-173004,Brevin Hamblin,2024,2025,S,S,Utah Tech,Utah State,35.4,35.4,776.0,239.0,,
-125313,Cole Wisniewski,2024,2025,S,S,North Dakota State,Texas Tech,56.5,56.5,,107.0,,
 145996,Taylen Green,2023,2024,QB,QB,Boise State,Arkansas,57.8,56.7,,,614.0,846.0
 142567,Tyler Huff,2023,2024,QB,QB,Furman,Jacksonville State,62.7,57.5,,,714.0,912.0
 83529,Jason Bean,2020,2021,QB,QB,North Texas,Kansas,56.2,54.4,,,395.0,464.0
@@ -404,305 +133,6 @@ pff_player_id,player_name,prev_season,current_season,prev_position,current_pos,p
 148735,Hayden McDonald,2024,2025,S,S,Columbia,Nevada,38.0,38.0,702.0,183.0,,
 164028,Jaden Lyles,2024,2025,S,S,Austin Peay,Western Michigan,41.8,41.8,790.0,108.0,,
 164351,Murvin Kenion III,2024,2025,S,S,Sacramento State,Nevada,49.1,49.1,679.0,168.0,,
-105568,Max Brosmer,2023,2024,QB,QB,New Hampshire,Minnesota,65.0,60.5,,,782.0,818.0
-171556,Devon Dampier,2024,2025,QB,QB,New Mexico,Utah,62.4,59.0,,,895.0,216.0
-147609,Gevani McCoy,2023,2024,QB,QB,Idaho,Oregon State,58.0,51.3,,,787.0,532.0
-167095,Floyd Chalk IV,2023,2024,HB,HB,Grambling State,San Jose State,59.2,68.4,,,251.0,558.0
-78578,Ty Son Lawton,2023,2024,HB,HB,James Madison,Indiana,40.8,43.8,,,400.0,339.0
-150238,Braedon Sloan,2023,2024,HB,HB,Eastern Kentucky,Ball State,33.4,38.6,,,461.0,511.0
-156922,Jamoni Jones,2023,2024,HB,HB,New Mexico State,Vanderbilt,29.1,29.1,,,396.0,118.0
-138400,Sy'veon Wilkerson,2022,2023,HB,HB,Jackson State,Colorado,18.5,18.5,,,600.0,136.0
-83732,Brian Snead,2021,2022,HB,HB,Austin Peay,Arkansas State,22.0,22.9,,,227.0,201.0
-97773,Jaren Mangham,2022,2023,HB,HB,USF,Michigan State,37.7,39.5,,,68.0,105.0
-97105,Cam Ross,2024,2025,WR,WR,James Madison,Virginia,55.4,55.2,,,710.0,120.0
-158022,Reggie Virgil,2024,2025,WR,WR,Miami (OH),Texas Tech,65.9,65.8,,,604.0,129.0
-88746,Landon Parker,2022,2023,WR,WR,Wofford,Troy,46.0,45.6,,,483.0,201.0
-123616,LaJohntay Wester,2023,2024,WR,WR,Florida Atlantic,Colorado,64.7,66.6,2.0,1.0,680.0,756.0
-101711,Dalevon Campbell,2023,2024,WR,WR,Nevada,South Carolina,52.4,52.2,,,648.0,283.0
-143759,Nate Bennett,2023,2024,WR,WR,Portland State,San Diego State,47.2,46.2,,,464.0,515.0
-97620,Zakhari Franklin,2022,2023,WR,WR,UTSA,Mississippi,61.4,63.2,,,977.0,138.0
-151266,Jake Bruno,2023,2024,TE,TE,St. Francis (PA),Ohio,38.2,36.9,,,558.0,268.0
-163139,Chrishon McCray,2024,2025,WR,WR,Kent State,Michigan State,56.4,56.3,,,493.0,104.0
-164032,Kenny Odom,2023,2024,WR,WR,Austin Peay,UTEP,68.1,68.1,1.0,,248.0,703.0
-157518,Jacoby Jones,2023,2024,WR,WR,Ohio,UCF,53.8,53.7,,1.0,103.0,311.0
-149138,Kam Thomas,2023,2024,WR,WR,Austin Peay,UTEP,54.0,53.9,2.0,,546.0,543.0
-97287,Trevor Wilson,2020,2021,WR,WR,Buffalo,Kansas,62.2,64.9,,,129.0,390.0
-78578,Ty Son Lawton,2022,2023,HB,HB,Stony Brook,James Madison,40.8,43.8,,,83.0,400.0
-157480,Darius Lassiter,2022,2023,WR,WR,Eastern Michigan,BYU,59.3,59.2,,,519.0,409.0
-145196,Jahmal Edrine,2023,2024,WR,WR,Florida Atlantic,Purdue,56.0,55.8,,,,463.0
-109734,Ahmad Edwards,2022,2023,WR,WR,Jacksonville State,Ball State,48.8,48.8,,,518.0,678.0
-102592,Ayir Asante,2022,2023,WR,WR,Holy Cross,Wyoming,49.2,49.3,1.0,,589.0,331.0
-142525,Jacari Carter,2022,2023,WR,WR,Merrimack,Georgia State,41.9,42.0,1.0,1.0,531.0,395.0
-123583,Jadon Thompson,2022,2023,WR,WR,Cincinnati,Louisville,41.0,42.0,,,452.0,261.0
-147570,Josh Cuevas,2022,2023,TE,TE,Cal Poly,Washington,47.5,48.6,,1.0,613.0,144.0
-109511,Quinton Lane,2022,2023,WR,WR,Stetson,Jacksonville State,40.4,40.4,,,607.0,650.0
-123625,Rivaldo Fairweather,2022,2023,TE,TE,Florida International,Auburn,44.7,47.1,,,476.0,589.0
-101139,Ryan O'Keefe,2022,2023,WR,WR,UCF,Boston College,62.3,65.1,,,761.0,204.0
-61767,Drew Tejchman,2019,2020,S,S,Jacksonville State,UNLV,54.3,53.8,,161.0,,
-102597,Jerreth Sterns,2020,2021,WR,WR,Houston Baptist,Western Kentucky,100.0,100.0,,2.0,302.0,888.0
-55283,Keith Pearson,2020,2021,WR,WR,Presbyterian,Charlotte,64.5,68.1,,,458.0,187.0
-87665,Michael Jefferson,2020,2021,WR,WR,Alabama State,Louisiana,62.7,64.2,,4.0,375.0,308.0
-84427,Remi Simmons,2020,2021,WR,WR,Stephen F. Austin,Central Michigan,51.7,53.4,,,425.0,299.0
-75883,Josiah Johnson,2022,2023,TE,TE,Massachusetts,Oklahoma State,40.4,40.7,,,578.0,698.0
-177868,E. Jai Mason,2024,2025,WR,WR,Samford,Charlotte,65.5,65.5,,,598.0,172.0
-173738,Jaden Barnes,2024,2025,WR,WR,Austin Peay,Appalachian State,79.9,79.9,,,670.0,132.0
-78198,Shane Hooks,2019,2020,WR,WR,Jackson State,Ohio,50.6,51.9,,,,111.0
-173303,Luke McGary,2024,2025,TE,TE,Tulsa,Houston,46.3,49.0,,,523.0,125.0
-146008,Tanner Arkin,2022,2023,TE,TE,Colorado State,Illinois,35.9,38.0,,,444.0,130.0
-148818,Jace Henry,2023,2024,TE,TE,Dartmouth,Nevada,43.6,46.8,,,396.0,213.0
-146291,Keleki Latu,2023,2024,TE,TE,Nevada,Washington,45.1,49.0,,,352.0,777.0
-148361,Zach Horton,2023,2024,TE,TE,James Madison,Indiana,52.9,56.3,,,777.0,688.0
-145747,Andreas Paaske,2023,2024,TE,TE,Eastern Michigan,Arkansas,33.7,36.5,1.0,,168.0,199.0
-121905,Jake Roberts,2022,2023,TE,TE,North Texas,Baylor,46.9,49.1,,,649.0,324.0
-145319,Var'keyes Gumms,2022,2023,TE,TE,North Texas,Arkansas,51.5,52.6,,,444.0,122.0
-61086,Josh Burgett,2021,2022,TE,TE,Youngstown State,Western Michigan,21.4,22.4,,,352.0,207.0
-60179,Justice Oluwaseun,2020,2021,T,T,UNLV,Miami (FL),65.3,65.3,,,432.0,257.0
-98528,Victor Stoffel,2023,2024,T,T,Temple,California,60.6,60.6,,,876.0,186.0
-99413,Willie Tyler,2021,2022,T,T,Louisiana-Monroe,Rutgers,59.4,59.4,,,666.0,564.0
-102324,Keagen Trost,2023,2024,T,T,Indiana State,Wake Forest,66.8,66.8,,,432.0,772.0
-122104,Daniel Keys,2023,2024,T,T,Stephen F. Austin,Louisiana Tech,67.8,67.8,,,795.0,767.0
-122688,Dakota White,2023,2024,T,T,Louisiana Tech,Houston,48.6,48.6,,,702.0,202.0
-144276,Makylan Pounders,2023,2024,T,T,Memphis,Mississippi State,53.3,53.3,,,673.0,574.0
-151251,Jesse Ramil,2023,2024,T,T,St. Francis (PA),James Madison,68.6,68.6,,,609.0,676.0
-159070,Peseti Lapuaho,2023,2024,T,T,Weber State,San Jose State,39.3,39.3,,,79.0,892.0
-153302,Tyler McDuffie,2024,2025,T,T,Hampton,Marshall,49.4,49.4,,,878.0,141.0
-156877,Daniel King,2024,2025,G,G,Troy,North Carolina,69.2,69.2,,,789.0,133.0
-158777,Drew Azzopardi,2023,2024,T,T,San Diego State,Washington,75.3,75.3,,,409.0,852.0
-145324,Febechi Nwaiwu,2023,2024,G,G,North Texas,Oklahoma,66.7,66.7,,,713.0,864.0
-164205,Zach Cochnauer,2024,2025,T,T,Central Arkansas,Nevada,68.6,68.6,,,526.0,149.0
-40256,Tyler Witt,2020,2021,G,G,Western Kentucky,Purdue,63.7,63.7,,,725.0,964.0
-60046,Chris Martinez,2021,2022,G,G,San Diego State,Arizona State,58.9,58.9,,,839.0,826.0
-77433,Max Banes,2022,2023,G,G,Akron,Houston,69.9,69.9,,,506.0,124.0
-77449,Prince Pines,2021,2022,G,G,Sam Houston State,Tulane,53.4,53.4,,,872.0,872.0
-102821,O'Cyrus Torrence,2021,2022,G,G,Louisiana,Florida,84.7,84.7,,,807.0,698.0
-143064,Eric Schon,2023,2024,G,G,Holy Cross,Duke,72.2,72.2,,,716.0,106.0
-151192,CJ James Jr.,2021,2022,C,C,Abilene Christian,New Mexico,54.3,54.3,,,658.0,613.0
-156597,Keylan Rutledge,2023,2024,G,G,Middle Tennessee,Georgia Tech,69.5,69.5,,,760.0,904.0
-164383,Omar Aigbedion,2023,2024,G,G,Montana State,Baylor,75.9,75.9,,,665.0,838.0
-103865,Evan Beerntsen,2024,2025,G,G,South Dakota State,Northwestern,79.2,79.2,,,875.0,191.0
-171814,Hadine Diaby,2024,2025,G,G,Tennessee State,Nevada,32.0,32.0,,,774.0,133.0
-148813,Kyle Brown,2024,2025,G,G,Dartmouth,Massachusetts,65.3,65.3,,,467.0,112.0
-101261,Leif Fautanu,2022,2023,C,C,UNLV,Arizona State,65.4,65.4,,,760.0,850.0
-145875,Pete Nygra,2023,2024,C,C,Northern Illinois,Louisville,66.7,66.7,,,772.0,848.0
-108599,Scott Elliott,2022,2023,C,C,Harvard,Duke,34.6,34.6,,,677.0,434.0
-147682,Sebastian Valdez,2023,2024,DI,DI,Montana State,Washington,66.1,66.1,560.0,558.0,,
-97962,Kevin Pointer,2020,2021,DI,DI,Louisiana-Monroe,Wake Forest,44.8,44.8,392.0,107.0,,
-97750,Marley Cook,2023,2024,DI,DI,Middle Tennessee,Miami (FL),48.4,48.4,622.0,155.0,,
-155389,Nate Martey,2022,2023,DI,DI,Princeton,Arkansas State,43.7,43.7,298.0,486.0,,
-150107,Elinus Noel III,2023,2024,DI,DI,Texas Southern,Baylor,32.7,32.7,523.0,430.0,,
-109251,Jack Daly,2022,2023,DI,DI,Bryant University,Florida International,20.9,20.9,526.0,559.0,,
-88452,James Makszin,2022,2023,DI,DI,Rhode Island,Ball State,30.5,30.5,446.0,301.0,,
-82265,Leonard Payne Jr.,2022,2023,DI,DI,Fresno State,Colorado,47.1,47.1,214.0,415.0,,
-75285,Aneesh Vyas,2024,2025,DI,DI,Bucknell,Wyoming,17.5,17.5,613.0,107.0,,
-100347,Ronald McGee,2020,2021,DI,DI,Buffalo,Kansas,30.3,30.3,92.0,241.0,,
-138455,Mikail Kamara,2023,2024,ED,ED,James Madison,Indiana,59.7,59.7,722.0,671.0,,
-76813,Antonio Colclough,2023,2024,ED,ED,Monmouth,Buffalo,46.2,46.2,341.0,389.0,,
-147407,Langston Hardy,2024,2025,ED,ED,Connecticut,Wake Forest,50.7,50.7,585.0,152.0,1.0,
-150369,Breylon Charles,2023,2024,ED,ED,Lamar,North Texas,40.5,40.5,,455.0,,
-98178,Jaylen Pate,2021,2022,ED,ED,Wyoming,Northwestern,31.2,31.2,309.0,124.0,,
-128432,Braden Siders,2024,2025,ED,ED,Wyoming,West Virginia,40.9,40.9,280.0,115.0,,
-138152,Giovanni Davis,2023,2024,ED,ED,Tennessee-Martin,Florida International,30.5,30.5,485.0,456.0,,
-147813,DeShawn Lynch,2023,2024,ED,ED,Sacramento State,Washington,26.6,26.6,534.0,274.0,,
-98193,Quindarius Dunnigan,2023,2024,ED,ED,Middle Tennessee,Michigan State,39.2,39.2,581.0,245.0,,
-83346,Paul Moala,2022,2023,LB,LB,Idaho,Georgia Tech,70.1,70.1,723.0,699.0,,
-158637,Nathan Voorhis,2024,2025,ED,ED,Bryant University,Ball State,62.4,62.4,525.0,143.0,,
-62494,Alex Howard,2023,2024,LB,LB,Youngstown State,Duke,61.6,61.6,684.0,645.0,,
-102118,Jacob Dobbs,2023,2024,LB,LB,Holy Cross,James Madison,49.7,49.7,605.0,502.0,,
-86729,Ozzie Nicholas,2023,2024,LB,LB,Princeton,Duke,49.3,49.3,715.0,703.0,,
-99728,Demetrius Knight Jr.,2023,2024,LB,LB,Charlotte,South Carolina,38.5,38.5,619.0,572.0,,1.0
-148812,Macklin Ayers,2023,2024,LB,LB,Dartmouth,Massachusetts,23.5,23.5,665.0,175.0,,1.0
-130573,Daveren Rayner,2022,2023,LB,LB,Northern Illinois,Kentucky,44.0,44.0,449.0,213.0,,
-77254,Ryan Selig,2022,2023,LB,LB,Western Michigan,Minnesota,30.0,30.0,747.0,298.0,,
-75826,Blaze Alldredge,2020,2021,LB,LB,Rice,Missouri,44.0,44.0,309.0,675.0,3.0,
-192037,Anthony Palano,2024,2025,LB,LB,South Dakota State,Washington State,21.4,21.4,,103.0,,
-175078,Jaxton Eck,2024,2025,LB,LB,Idaho,New Mexico,46.2,46.2,700.0,171.0,2.0,
-133963,Ray Coney,2024,2025,LB,LB,East Tennessee State,Tulsa,38.4,38.4,655.0,211.0,,
-78673,Decorian Patterson,2022,2023,CB,CB,Middle Tennessee,UCF,48.4,48.4,861.0,428.0,,
-83459,Beanie Bishop Jr.,2021,2022,CB,CB,Western Kentucky,Minnesota,61.5,61.2,492.0,303.0,,
-98838,Shilo Sanders,2022,2023,S,S,Jackson State,Colorado,65.1,65.1,349.0,779.0,,
-138981,Sheldon Arnold II,2023,2024,S,S,East Tennessee State,UCF,59.4,59.4,778.0,600.0,,
-145309,Jakobe Thomas,2023,2024,S,S,Middle Tennessee,Tennessee,53.8,53.5,767.0,263.0,,
-145627,Jordan Riley,2023,2024,S,S,Ball State,Kansas State,54.9,54.7,699.0,444.0,,
-150011,Andreas Keaton,2023,2024,S,S,Western Carolina,Temple,57.1,57.1,577.0,753.0,,
-150058,Brian Mayes,2023,2024,CB,CB,UAB,Texas A&M,54.4,54.4,597.0,490.0,,
-160267,Adrian Maddox,2023,2024,CB,CB,Alabama State,UAB,63.1,63.1,604.0,393.0,,
-163349,A.J. Haulcy,2022,2023,S,S,New Mexico,Houston,64.4,64.2,643.0,775.0,,
-89166,Andre Sam,2021,2022,S,S,McNeese State,Marshall,68.6,68.4,754.0,632.0,,
-98838,Shilo Sanders,2019,2020,S,S,Jackson State,South Carolina,65.1,65.1,,316.0,,
-65033,Akayleb Evans,2020,2021,CB,CB,Tulsa,Missouri,45.6,45.7,468.0,597.0,,
-65081,Allie Green IV,2020,2021,CB,CB,Tulsa,Missouri,40.5,40.6,471.0,455.0,,
-84268,Josh Newton,2021,2022,CB,CB,Louisiana-Monroe,TCU,58.7,58.7,694.0,943.0,,
-97468,Trevon Booker,2023,2024,CB,CB,Campbell,Charlotte,32.9,32.9,363.0,329.0,,
-103580,Jarius Monroe,2021,2022,CB,CB,Nicholls,Tulane,71.8,71.8,622.0,743.0,,
-103583,Devyn Coles,2021,2022,CB,CB,Norfolk State,James Madison,74.2,74.2,408.0,164.0,,
-103620,Kam Alexander,2022,2023,CB,CB,Sam Houston State,UTSA,77.0,77.0,269.0,597.0,,
-104323,Glenn Brown,2022,2023,CB,CB,Southern University,Louisiana,60.6,60.6,460.0,309.0,,
-105835,Amir Wallace,2023,2024,CB,CB,San Diego,San Jose State,51.4,51.4,288.0,443.0,,
-121668,Channing Canada,2022,2023,CB,CB,Houston Christian,TCU,54.8,54.8,,320.0,,
-148086,Johnathan Edwards,2023,2024,CB,CB,Indiana State,Tulane,50.4,50.4,572.0,457.0,,
-148570,Ayden Garnes,2023,2024,CB,CB,Duquesne,West Virginia,55.1,55.1,688.0,308.0,,
-156723,Brent Austin,2024,2025,CB,CB,USF,California,65.2,65.2,753.0,180.0,,
-159385,Bilhal Kone,2022,2023,CB,CB,Indiana State,Western Michigan,59.3,59.3,541.0,462.0,,
-159892,Jason Chambers,2024,2025,CB,CB,Appalachian State,West Virginia,58.9,58.9,506.0,163.0,,
-169935,DeAgo Brumfeld,2023,2024,CB,CB,Memphis,Mississippi State,58.0,58.0,752.0,178.0,,
-141638,Colby Humphrey,2024,2025,CB,CB,South Dakota State,Washington State,61.5,61.5,538.0,136.0,1.0,
-160106,Jaden Rios,2024,2025,CB,CB,East Texas A&M,Texas State,62.0,62.0,627.0,135.0,1.0,
-161488,Tre Bell,2024,2025,CB,CB,Lindenwood,Iowa State,80.2,80.2,315.0,115.0,,
-60658,Kenderick Duncan,2020,2021,S,S,Georgia Southern,Louisville,72.7,72.4,362.0,800.0,,1.0
-98903,Maurice Hampton Jr.,2023,2024,S,S,Memphis,Vanderbilt,61.4,61.4,,144.0,,
-149428,Jake Jarmolowich,2024,2025,S,S,Holy Cross,Colorado State,68.7,68.7,706.0,116.0,,
-156733,Zeon Chriss,2023,2024,QB,QB,Louisiana,Houston,46.6,42.6,,,410.0,402.0
-101058,Jordan McCloud,2020,2021,QB,QB,USF,Arizona,57.0,55.7,,,411.0,176.0
-97998,Kurtis Rourke,2023,2024,QB,QB,Ohio,Indiana,75.3,74.9,,,675.0,711.0
-172309,Gio Lopez,2024,2025,QB,QB,South Alabama,North Carolina,64.4,63.8,,,680.0,139.0
-174978,Joey Aguilar,2024,2025,QB,QB,Appalachian State,Tennessee,56.0,54.3,,,815.0,200.0
-102348,Hajj-Malik Williams,2023,2024,QB,QB,Campbell,UNLV,64.7,60.1,,,748.0,742.0
-100201,Zach Gibson,2021,2022,QB,QB,Akron,Georgia Tech,55.2,53.9,,,311.0,189.0
-184200,Danny O'Neil,2024,2025,QB,QB,San Diego State,Wisconsin,60.8,58.6,,,734.0,160.0
-142933,Tony Muskett,2022,2023,QB,QB,Monmouth,Virginia,43.5,45.6,,,546.0,357.0
-60396,Bailey Zappe,2020,2021,QB,QB,Houston Baptist,Western Kentucky,78.0,76.0,,,332.0,1050.0
-98006,Zach Calzada,2024,2025,QB,QB,Incarnate Word,Kentucky,37.1,31.4,,,1038.0,134.0
-122936,Seth McGowan,2024,2025,HB,HB,New Mexico State,Kentucky,48.4,53.4,,,454.0,118.0
-101643,Kay'Ron Lynch-Adams,2023,2024,HB,HB,Massachusetts,Michigan State,47.1,49.6,,,594.0,360.0
-170441,Cam Vaughn,2024,2025,WR,WR,Jacksonville State,West Virginia,64.7,64.7,,,618.0,184.0
-190753,Joseph Williams,2024,2025,WR,WR,Tulsa,Colorado,54.3,54.1,,,490.0,128.0
-121811,Jaylin Lane,2022,2023,WR,WR,Middle Tennessee,Virginia Tech,61.5,63.1,1.0,1.0,686.0,528.0
-150169,Gage Larvadain,2023,2024,WR,WR,Miami (OH),South Carolina,54.9,54.6,1.0,,407.0,451.0
-149111,Tre Shackelford,2023,2024,WR,WR,Austin Peay,Washington State,24.9,24.4,,2.0,676.0,179.0
-149140,Drae McCray,2022,2023,WR,WR,Austin Peay,Texas Tech,43.8,43.3,,,727.0,366.0
-159603,Justin Bowick,2023,2024,WR,WR,Eastern Illinois,Ball State,51.0,50.7,,,783.0,192.0
-149997,Raphael Williams Jr.,2023,2024,WR,WR,San Diego State,Pittsburgh,59.2,59.0,,,,830.0
-125264,Micah Davis,2023,2024,WR,WR,Utah State,Mississippi,47.2,46.6,1.0,2.0,544.0,140.0
-121426,Caullin Lacy,2023,2024,WR,WR,South Alabama,Louisville,63.7,64.9,1.0,,751.0,244.0
-128374,Kyle Williams,2022,2023,WR,WR,UNLV,Washington State,62.7,64.6,,,486.0,691.0
-138149,Jalen Bracey,2021,2022,WR,WR,Tennessee-Martin,Florida International,47.0,47.0,,,,502.0
-97399,Jamari Thrash,2022,2023,WR,WR,Georgia State,Louisville,58.6,60.5,,,874.0,683.0
-104954,Mason Pierce,2022,2023,WR,WR,McNeese State,Marshall,46.5,46.6,1.0,,553.0,151.0
-83949,McCallan Castles,2022,2023,TE,TE,UC Davis,Tennessee,54.2,54.2,,,577.0,442.0
-89497,Izaiah Gathings,2020,2021,WR,WR,Gardner-Webb,Middle Tennessee,60.1,61.2,,,243.0,409.0
-64309,Daylen Baldwin,2020,2021,WR,WR,Jackson State,Michigan,51.7,53.6,,,439.0,288.0
-63672,Bryce Nunnelly,2020,2021,WR,WR,Chattanooga,Western Michigan,56.0,58.1,,,52.0,391.0
-147781,Devin Gandy,2024,2025,WR,WR,Sacramento State,Louisiana Tech,42.3,42.3,,,148.0,114.0
-177231,Griffin Wilde,2024,2025,WR,WR,South Dakota State,Northwestern,65.5,65.5,,,648.0,127.0
-175085,Mark Hamper,2024,2025,WR,WR,Idaho,California,48.7,48.7,,,676.0,125.0
-129503,Nick DeGennaro,2024,2025,WR,WR,Richmond,James Madison,47.8,47.8,1.0,,492.0,115.0
-159794,Camden Overton-Howard,2024,2025,TE,TE,Gardner-Webb,Georgia State,56.9,56.9,,,746.0,169.0
-147417,Eni Falayi,2024,2025,TE,TE,Utah Tech,Wake Forest,41.9,41.9,,,333.0,129.0
-148343,Johncarlos Miller II,2023,2024,TE,TE,Elon,Texas Tech,44.5,48.2,,4.0,559.0,379.0
-128333,Sam Olson,2023,2024,TE,TE,San Jose State,Arizona,35.1,36.3,,,390.0,507.0
-138317,Nate Sullivan Jr.,2023,2024,TE,TE,South Dakota State,Louisiana-Monroe,37.0,39.6,,,,410.0
-109352,Billy Riviere III,2021,2022,TE,TE,North Dakota,Washington State,40.7,41.5,,,316.0,254.0
-109406,Robbie Mangas,2021,2022,TE,TE,Dartmouth,Buffalo,40.2,42.1,,,395.0,544.0
-81640,Devin Hayes,2022,2023,T,T,Jackson State,Middle Tennessee,49.0,49.0,,,626.0,238.0
-81938,Mason Brooks,2021,2022,T,T,Western Kentucky,Mississippi,77.4,77.4,,,1052.0,113.0
-98421,Shamar Hobdy-Lee,2022,2023,T,T,Florida International,Houston,43.5,43.5,,,804.0,108.0
-98468,Khadere Kounta,2022,2023,T,T,Old Dominion,UCLA,39.8,39.8,,,751.0,158.0
-102823,Jarrett Horst,2020,2021,T,T,Arkansas State,Michigan State,44.3,44.3,,,500.0,317.0
-109425,Tylan Grable,2021,2022,T,T,Jacksonville State,UCF,73.2,73.2,,,374.0,1013.0
-130349,Corey Stewart,2023,2024,T,T,Ball State,Purdue,64.4,64.4,,,764.0,597.0
-137997,Bryson Broadway,2021,2022,T,T,Eastern Illinois,Georgia State,50.9,50.9,,,718.0,762.0
-142535,Nick Reimer,2023,2024,T,T,Merrimack,Bowling Green,38.1,38.1,,,702.0,169.0
-146185,Fernando Carmona,2023,2024,T,T,San Jose State,Arkansas,68.4,68.4,,,765.0,900.0
-155412,Jalen Travis,2023,2024,T,T,Princeton,Iowa State,82.0,82.0,,,390.0,850.0
-157231,J.C. Davis,2023,2024,T,T,New Mexico,Illinois,86.7,86.7,,,828.0,824.0
-158975,Jack Foster,2024,2025,T,T,Idaho,Nevada,66.8,66.8,,,841.0,175.0
-142971,Jacob Otts,2024,2025,T,T,Rhode Island,Middle Tennessee,35.3,35.3,,,623.0,200.0
-104742,Ellis Adams,2023,2024,G,G,Tennessee Tech,Middle Tennessee,60.4,60.4,,,223.0,535.0
-130396,Alex Wollschlaeger,2024,2025,T,T,Bowling Green,Kentucky,53.1,53.1,,,773.0,212.0
-172366,Boaz Stanley,2024,2025,C,C,Troy,South Carolina,56.8,56.8,,,786.0,163.0
-167108,Melvin Priestly,2023,2024,T,T,Grambling State,Illinois,61.4,61.4,,,655.0,826.0
-100806,Jeremiah Byers,2022,2023,T,T,UTEP,Florida State,67.1,67.1,,,855.0,809.0
-138046,DJ Jones,2023,2024,T,T,Murray State,UAB,58.6,58.6,,,659.0,705.0
-108583,Jonathan Mendoza,2023,2024,T,T,Yale,Louisville,58.0,58.0,,,662.0,490.0
-123256,Jaden Muskrat,2022,2023,T,T,Tulsa,Auburn,54.1,54.1,,,848.0,220.0
-150060,Jimeto Obigbo,2022,2023,T,T,Incarnate Word,Texas State,61.3,61.3,,,943.0,932.0
-41481,Jonathan Timmons,2020,2021,G,G,Alabama A&M,Charlotte,61.9,61.9,,,96.0,550.0
-58446,Kade Parmelly,2020,2021,G,G,Abilene Christian,Duke,82.2,82.2,,,370.0,352.0
-78404,Oliver Jervis,2022,2023,G,G,Monmouth,Colorado State,72.5,72.5,,,689.0,840.0
-81883,Baraka Beckett,2023,2024,G,G,Campbell,New Mexico,89.9,89.9,,,737.0,897.0
-81941,Rusty Staats,2022,2023,C,C,Western Kentucky,Texas Tech,64.8,64.8,,,1039.0,975.0
-108785,Connor Scaglione,2022,2023,G,G,Princeton,Georgia Tech,55.1,55.1,,,637.0,871.0
-128427,Emmanuel Pregnon,2022,2023,G,G,Wyoming,USC,70.6,70.6,,,625.0,784.0
-130364,Jalen Grant,2022,2023,G,G,Bowling Green,Purdue,56.9,56.9,,,861.0,802.0
-130632,Vinny Sciury,2023,2024,G,G,Toledo,Texas Tech,60.5,60.5,,,838.0,138.0
-173351,Delano Townsend,2024,2025,G,G,UAB,Mississippi,56.9,56.9,,,719.0,133.0
-132433,Caleb Carter,2024,2025,G,G,Western Carolina,Michigan State,59.6,59.6,,,879.0,142.0
-143757,D'Angalo Titialii,2023,2024,C,C,Portland State,Washington,40.2,40.2,,,621.0,739.0
-77545,Mike Novitsky,2020,2021,C,C,Buffalo,Kansas,69.3,69.3,,,454.0,748.0
-55143,Mike Purcell,2022,2023,C,C,Elon,Maryland,42.3,42.3,,,771.0,411.0
-91678,Jack Burns,2021,2022,C,C,Cornell,Duke,71.0,71.0,,,699.0,726.0
-149134,Alex Whitmore,2022,2023,DI,DI,Austin Peay,UNLV,60.4,60.4,105.0,446.0,,
-104393,Devonta Davis,2023,2024,DI,DI,Jackson State,Florida Atlantic,46.7,46.7,268.0,480.0,,
-132413,Charlie Jackson,2023,2024,DI,DI,Gardner-Webb,Charlotte,26.6,26.6,526.0,319.0,,
-82511,Jackson Cravens,2022,2023,DI,DI,Boise State,BYU,41.0,41.0,313.0,474.0,10.0,1.0
-91790,Joe Golden,2021,2022,ED,ED,Northern Colorado,Oregon State,29.7,29.7,571.0,127.0,9.0,1.0
-103663,Rason Williams II,2022,2023,DI,DI,Stephen F. Austin,Louisiana Tech,40.7,40.7,148.0,543.0,,
-91288,Brodric Martin,2020,2021,DI,DI,North Alabama,Western Kentucky,40.8,40.8,176.0,369.0,,
-56866,Ifeanyi Maijeh,2020,2021,DI,DI,Temple,Rutgers,48.9,48.9,350.0,447.0,,
-100955,Rick D'Abreu,2022,2023,ED,ED,East Carolina,TCU,41.5,41.5,125.0,146.0,,
-106404,Jalen Bell,2024,2025,DI,DI,Tennessee State,Memphis,64.1,64.1,174.0,122.0,,
-123708,T.J. Jackson,2023,2024,ED,ED,Troy,West Virginia,58.7,58.7,394.0,520.0,,
-141716,Okiki Olorunfunmi,2023,2024,ED,ED,Weber State,New Mexico,8.0,8.0,68.0,196.0,,
-147092,Josaiah Stewart,2022,2023,ED,ED,Coastal Carolina,Michigan,70.1,70.1,541.0,349.0,,
-131903,Cooper McDonald,2023,2024,ED,ED,San Diego State,TCU,45.2,45.2,633.0,322.0,,
-108107,Donnell Brown,2022,2023,ED,ED,St. Francis (PA),Maryland,44.6,44.6,631.0,460.0,,
-158699,Gabe Kirschke,2024,2025,ED,ED,Colorado State,Wake Forest,36.3,36.3,648.0,123.0,,
-156660,Keyron Crawford,2023,2024,ED,ED,Arkansas State,Auburn,46.4,46.4,611.0,334.0,,
-106263,Dylan Wudke,2023,2024,ED,ED,Youngstown State,Kansas,40.8,40.8,475.0,306.0,,
-149961,Kobe Stewart,2023,2024,ED,ED,Samford,Buffalo,41.9,41.9,87.0,673.0,,
-157215,Nuer Gatkuoth,2024,2025,ED,ED,Colorado State,Wake Forest,38.4,38.4,187.0,105.0,,
-105337,Kale Edwards,2023,2024,ED,ED,Montana,New Mexico State,31.6,31.6,609.0,526.0,3.0,
-101405,Noah Potter,2022,2023,ED,ED,Cincinnati,North Carolina State,27.8,27.8,347.0,121.0,,
-98121,Richie Hagarty,2022,2023,ED,ED,Southern Illinois,Northwestern,29.0,29.0,403.0,331.0,,
-75742,Solomon Byrd,2021,2022,ED,ED,Wyoming,USC,56.1,56.1,365.0,405.0,,
-88437,Scotty Humpich,2021,2022,ED,ED,Murray State,Purdue,38.8,38.8,114.0,234.0,,
-165457,Ashaad Hall,2024,2025,ED,ED,South Carolina State,UTEP,35.4,35.4,491.0,147.0,,
-148849,Braden Mullen,2024,2025,ED,ED,Dartmouth,Charlotte,17.9,17.9,630.0,106.0,1.0,
-100437,Stephon Wright,2024,2025,ED,ED,Texas Southern,Connecticut,20.9,20.9,257.0,120.0,,
-102067,Monroe Beard III,2023,2024,LB,LB,Tennessee State,Marshall,83.1,83.1,582.0,118.0,,
-139005,Chandler Martin,2022,2023,LB,LB,East Tennessee State,Memphis,59.2,59.2,717.0,745.0,,
-98123,Dan Foster Jr.,2023,2024,LB,LB,Texas State,Louisville,44.3,44.3,575.0,131.0,,
-130354,JB Brown,2022,2023,LB,LB,Bowling Green,Kansas,43.3,43.3,323.0,573.0,,
-165778,Blaise Tita,2023,2024,LB,LB,Lamar,Rice,47.9,47.9,,226.0,,
-156889,Bryan McCoy Jr.,2024,2025,LB,LB,Akron,Oklahoma State,33.6,33.6,688.0,111.0,,
-159431,Jahsiah Galvan,2023,2024,LB,LB,Northern Iowa,Stanford,41.0,41.0,634.0,126.0,,
-77185,Antonio Grier,2022,2023,LB,LB,USF,Arkansas,40.8,40.8,102.0,281.0,,
-79542,BJ Davis,2022,2023,LB,LB,South Carolina State,East Carolina,41.4,41.4,709.0,480.0,,
-149135,Joshua Rudolph,2022,2023,LB,LB,Austin Peay,Indiana,34.4,34.4,677.0,123.0,,
-88501,Nate Norris,2022,2023,LB,LB,Lehigh,Western Michigan,38.0,38.0,682.0,387.0,,1.0
-77152,Eriq Gilyard,2021,2022,LB,LB,UCF,Kansas,34.3,34.3,161.0,255.0,,
-81272,Lorenzo McCaskill,2021,2022,LB,LB,Louisiana,Kansas,23.2,23.2,589.0,399.0,,
-159115,Marco Patierno,2024,2025,LB,LB,Elon,Eastern Michigan,16.8,16.8,351.0,157.0,,
-89160,Cory McCoy,2020,2021,CB,CB,McNeese State,Marshall,69.3,68.6,446.0,883.0,,
-89166,Andre Sam,2022,2023,S,S,Marshall,LSU,68.6,68.4,632.0,767.0,,
-104023,Myles Heard,2022,2023,S,S,Stephen F. Austin,Louisiana Tech,71.7,71.7,640.0,645.0,,
-121497,Mac McWilliams,2023,2024,CB,CB,UAB,UCF,58.1,58.1,794.0,542.0,,
-149114,Shamari Simmons,2022,2023,S,S,Austin Peay,Arizona State,53.3,53.3,597.0,796.0,,
-150570,Avarion Cole,2023,2024,S,S,North Carolina A&T,Appalachian State,47.4,47.4,682.0,265.0,,
-184348,Jordan Scruggs,2024,2025,CB,CB,South Alabama,West Virginia,59.9,59.9,662.0,110.0,,
-76740,Jeremy Lucien,2021,2022,CB,CB,Connecticut,Vanderbilt,40.4,40.4,484.0,491.0,,
-97676,Josh Wallace,2022,2023,CB,CB,Massachusetts,Michigan,67.6,67.6,739.0,616.0,,
-101078,Ja'Quan Sheppard,2022,2023,CB,CB,Cincinnati,Maryland,61.8,61.8,819.0,660.0,,
-101146,Cam Lampkin,2021,2022,CB,CB,Utah State,Washington State,59.3,59.3,705.0,110.0,,1.0
-105714,Yahsyn McKee,2021,2022,CB,CB,Mercer,Miami (OH),63.9,63.9,517.0,470.0,,
-121345,Elijah Culp,2020,2021,CB,CB,Austin Peay,Troy,49.7,49.7,358.0,373.0,1.0,
-122628,Trey Amos,2022,2023,CB,CB,Louisiana,Alabama,69.2,69.2,585.0,340.0,,
-128307,Dezjhon Malone,2023,2024,CB,CB,San Diego State,Oklahoma,61.3,61.3,692.0,371.0,,
-142101,Arsheen Jiles,2023,2024,CB,CB,Sacred Heart,Massachusetts,51.3,51.3,574.0,470.0,,1.0
-143073,Terrence Spence,2023,2024,CB,CB,Holy Cross,James Madison,49.5,49.5,695.0,529.0,,
-145378,LaMareon James,2023,2024,CB,CB,Old Dominion,TCU,61.5,61.6,824.0,565.0,1.0,
-149264,Ethan Robinson,2023,2024,CB,CB,Bucknell,Minnesota,58.6,58.6,621.0,783.0,,
-149952,Jordan Oladokun,2021,2022,CB,CB,Samford,Bowling Green,71.7,71.7,130.0,675.0,,
-150353,Canden Grogan,2023,2024,CB,CB,Lamar,Texas State,52.7,52.7,467.0,142.0,,
-158982,Ormanie Arnold,2023,2024,CB,CB,Idaho,Cincinnati,32.8,32.8,667.0,372.0,,
-163211,Donavon Platt,2024,2025,CB,CB,Army,Virginia,60.3,60.3,521.0,117.0,,
-172197,Dontay Joyner,2024,2025,CB,CB,Arkansas State,Maryland,60.0,60.0,694.0,153.0,,
-175097,Andrew Marshall,2024,2025,CB,CB,Idaho,Nebraska,64.6,64.6,800.0,105.0,,
-161247,Jayvon Henderson,2024,2025,CB,CB,East Tennessee State,South Alabama,65.6,65.6,476.0,149.0,1.0,
-170699,Jon Johnson,2024,2025,CB,CB,Montana State,New Mexico,76.4,76.4,407.0,129.0,,
-142508,Victor Nelson,2022,2023,S,S,LIU,Boston College,62.6,62.6,767.0,138.0,1.0,1.0
-172777,Devonte' Mathews,2023,2024,S,S,Nicholls,Western Kentucky,65.6,65.6,437.0,780.0,2.0,
-148243,Tucker Large,2024,2025,S,S,South Dakota State,Washington State,48.8,48.8,458.0,123.0,,
 156927,Diego Pavia,2023,2024,QB,QB,New Mexico State,Vanderbilt,70.0,71.2,,,870.0,790.0
 145214,Grayson James,2023,2024,QB,QB,Florida International,Boston College,41.7,37.0,,,95.0,396.0
 101284,Hank Bachmeier,2023,2024,QB,QB,Louisiana Tech,Wake Forest,55.1,53.3,,,536.0,790.0
@@ -981,6 +411,443 @@ pff_player_id,player_name,prev_season,current_season,prev_position,current_pos,p
 184333,Jahron Manning,2024,2025,S,S,Old Dominion,Mississippi State,68.1,68.1,621.0,111.0,,
 149841,Josh Battle,2024,2025,S,S,Chattanooga,Southern Miss,56.7,56.7,782.0,110.0,,
 148240,Matthew Durrance,2024,2025,S,S,South Dakota State,Washington State,49.9,49.9,646.0,149.0,,
+156733,Zeon Chriss,2023,2024,QB,QB,Louisiana,Houston,46.6,42.6,,,410.0,402.0
+101058,Jordan McCloud,2020,2021,QB,QB,USF,Arizona,57.0,55.7,,,411.0,176.0
+97998,Kurtis Rourke,2023,2024,QB,QB,Ohio,Indiana,75.3,74.9,,,675.0,711.0
+172309,Gio Lopez,2024,2025,QB,QB,South Alabama,North Carolina,64.4,63.8,,,680.0,139.0
+174978,Joey Aguilar,2024,2025,QB,QB,Appalachian State,Tennessee,56.0,54.3,,,815.0,200.0
+102348,Hajj-Malik Williams,2023,2024,QB,QB,Campbell,UNLV,64.7,60.1,,,748.0,742.0
+100201,Zach Gibson,2021,2022,QB,QB,Akron,Georgia Tech,55.2,53.9,,,311.0,189.0
+184200,Danny O'Neil,2024,2025,QB,QB,San Diego State,Wisconsin,60.8,58.6,,,734.0,160.0
+142933,Tony Muskett,2022,2023,QB,QB,Monmouth,Virginia,43.5,45.6,,,546.0,357.0
+60396,Bailey Zappe,2020,2021,QB,QB,Houston Baptist,Western Kentucky,78.0,76.0,,,332.0,1050.0
+98006,Zach Calzada,2024,2025,QB,QB,Incarnate Word,Kentucky,37.1,31.4,,,1038.0,134.0
+122936,Seth McGowan,2024,2025,HB,HB,New Mexico State,Kentucky,48.4,53.4,,,454.0,118.0
+101643,Kay'Ron Lynch-Adams,2023,2024,HB,HB,Massachusetts,Michigan State,47.1,49.6,,,594.0,360.0
+170441,Cam Vaughn,2024,2025,WR,WR,Jacksonville State,West Virginia,64.7,64.7,,,618.0,184.0
+190753,Joseph Williams,2024,2025,WR,WR,Tulsa,Colorado,54.3,54.1,,,490.0,128.0
+121811,Jaylin Lane,2022,2023,WR,WR,Middle Tennessee,Virginia Tech,61.5,63.1,1.0,1.0,686.0,528.0
+150169,Gage Larvadain,2023,2024,WR,WR,Miami (OH),South Carolina,54.9,54.6,1.0,,407.0,451.0
+149111,Tre Shackelford,2023,2024,WR,WR,Austin Peay,Washington State,24.9,24.4,,2.0,676.0,179.0
+149140,Drae McCray,2022,2023,WR,WR,Austin Peay,Texas Tech,43.8,43.3,,,727.0,366.0
+159603,Justin Bowick,2023,2024,WR,WR,Eastern Illinois,Ball State,51.0,50.7,,,783.0,192.0
+149997,Raphael Williams Jr.,2023,2024,WR,WR,San Diego State,Pittsburgh,59.2,59.0,,,,830.0
+125264,Micah Davis,2023,2024,WR,WR,Utah State,Mississippi,47.2,46.6,1.0,2.0,544.0,140.0
+121426,Caullin Lacy,2023,2024,WR,WR,South Alabama,Louisville,63.7,64.9,1.0,,751.0,244.0
+128374,Kyle Williams,2022,2023,WR,WR,UNLV,Washington State,62.7,64.6,,,486.0,691.0
+138149,Jalen Bracey,2021,2022,WR,WR,Tennessee-Martin,Florida International,47.0,47.0,,,,502.0
+97399,Jamari Thrash,2022,2023,WR,WR,Georgia State,Louisville,58.6,60.5,,,874.0,683.0
+104954,Mason Pierce,2022,2023,WR,WR,McNeese State,Marshall,46.5,46.6,1.0,,553.0,151.0
+83949,McCallan Castles,2022,2023,TE,TE,UC Davis,Tennessee,54.2,54.2,,,577.0,442.0
+89497,Izaiah Gathings,2020,2021,WR,WR,Gardner-Webb,Middle Tennessee,60.1,61.2,,,243.0,409.0
+64309,Daylen Baldwin,2020,2021,WR,WR,Jackson State,Michigan,51.7,53.6,,,439.0,288.0
+63672,Bryce Nunnelly,2020,2021,WR,WR,Chattanooga,Western Michigan,56.0,58.1,,,52.0,391.0
+147781,Devin Gandy,2024,2025,WR,WR,Sacramento State,Louisiana Tech,42.3,42.3,,,148.0,114.0
+177231,Griffin Wilde,2024,2025,WR,WR,South Dakota State,Northwestern,65.5,65.5,,,648.0,127.0
+175085,Mark Hamper,2024,2025,WR,WR,Idaho,California,48.7,48.7,,,676.0,125.0
+129503,Nick DeGennaro,2024,2025,WR,WR,Richmond,James Madison,47.8,47.8,1.0,,492.0,115.0
+159794,Camden Overton-Howard,2024,2025,TE,TE,Gardner-Webb,Georgia State,56.9,56.9,,,746.0,169.0
+147417,Eni Falayi,2024,2025,TE,TE,Utah Tech,Wake Forest,41.9,41.9,,,333.0,129.0
+148343,Johncarlos Miller II,2023,2024,TE,TE,Elon,Texas Tech,44.5,48.2,,4.0,559.0,379.0
+128333,Sam Olson,2023,2024,TE,TE,San Jose State,Arizona,35.1,36.3,,,390.0,507.0
+138317,Nate Sullivan Jr.,2023,2024,TE,TE,South Dakota State,Louisiana-Monroe,37.0,39.6,,,,410.0
+109352,Billy Riviere III,2021,2022,TE,TE,North Dakota,Washington State,40.7,41.5,,,316.0,254.0
+109406,Robbie Mangas,2021,2022,TE,TE,Dartmouth,Buffalo,40.2,42.1,,,395.0,544.0
+81640,Devin Hayes,2022,2023,T,T,Jackson State,Middle Tennessee,49.0,49.0,,,626.0,238.0
+81938,Mason Brooks,2021,2022,T,T,Western Kentucky,Mississippi,77.4,77.4,,,1052.0,113.0
+98421,Shamar Hobdy-Lee,2022,2023,T,T,Florida International,Houston,43.5,43.5,,,804.0,108.0
+98468,Khadere Kounta,2022,2023,T,T,Old Dominion,UCLA,39.8,39.8,,,751.0,158.0
+102823,Jarrett Horst,2020,2021,T,T,Arkansas State,Michigan State,44.3,44.3,,,500.0,317.0
+109425,Tylan Grable,2021,2022,T,T,Jacksonville State,UCF,73.2,73.2,,,374.0,1013.0
+130349,Corey Stewart,2023,2024,T,T,Ball State,Purdue,64.4,64.4,,,764.0,597.0
+137997,Bryson Broadway,2021,2022,T,T,Eastern Illinois,Georgia State,50.9,50.9,,,718.0,762.0
+142535,Nick Reimer,2023,2024,T,T,Merrimack,Bowling Green,38.1,38.1,,,702.0,169.0
+146185,Fernando Carmona,2023,2024,T,T,San Jose State,Arkansas,68.4,68.4,,,765.0,900.0
+155412,Jalen Travis,2023,2024,T,T,Princeton,Iowa State,82.0,82.0,,,390.0,850.0
+157231,J.C. Davis,2023,2024,T,T,New Mexico,Illinois,86.7,86.7,,,828.0,824.0
+158975,Jack Foster,2024,2025,T,T,Idaho,Nevada,66.8,66.8,,,841.0,175.0
+142971,Jacob Otts,2024,2025,T,T,Rhode Island,Middle Tennessee,35.3,35.3,,,623.0,200.0
+104742,Ellis Adams,2023,2024,G,G,Tennessee Tech,Middle Tennessee,60.4,60.4,,,223.0,535.0
+130396,Alex Wollschlaeger,2024,2025,T,T,Bowling Green,Kentucky,53.1,53.1,,,773.0,212.0
+172366,Boaz Stanley,2024,2025,C,C,Troy,South Carolina,56.8,56.8,,,786.0,163.0
+167108,Melvin Priestly,2023,2024,T,T,Grambling State,Illinois,61.4,61.4,,,655.0,826.0
+100806,Jeremiah Byers,2022,2023,T,T,UTEP,Florida State,67.1,67.1,,,855.0,809.0
+138046,DJ Jones,2023,2024,T,T,Murray State,UAB,58.6,58.6,,,659.0,705.0
+108583,Jonathan Mendoza,2023,2024,T,T,Yale,Louisville,58.0,58.0,,,662.0,490.0
+123256,Jaden Muskrat,2022,2023,T,T,Tulsa,Auburn,54.1,54.1,,,848.0,220.0
+150060,Jimeto Obigbo,2022,2023,T,T,Incarnate Word,Texas State,61.3,61.3,,,943.0,932.0
+41481,Jonathan Timmons,2020,2021,G,G,Alabama A&M,Charlotte,61.9,61.9,,,96.0,550.0
+58446,Kade Parmelly,2020,2021,G,G,Abilene Christian,Duke,82.2,82.2,,,370.0,352.0
+78404,Oliver Jervis,2022,2023,G,G,Monmouth,Colorado State,72.5,72.5,,,689.0,840.0
+81883,Baraka Beckett,2023,2024,G,G,Campbell,New Mexico,89.9,89.9,,,737.0,897.0
+81941,Rusty Staats,2022,2023,C,C,Western Kentucky,Texas Tech,64.8,64.8,,,1039.0,975.0
+108785,Connor Scaglione,2022,2023,G,G,Princeton,Georgia Tech,55.1,55.1,,,637.0,871.0
+128427,Emmanuel Pregnon,2022,2023,G,G,Wyoming,USC,70.6,70.6,,,625.0,784.0
+130364,Jalen Grant,2022,2023,G,G,Bowling Green,Purdue,56.9,56.9,,,861.0,802.0
+130632,Vinny Sciury,2023,2024,G,G,Toledo,Texas Tech,60.5,60.5,,,838.0,138.0
+173351,Delano Townsend,2024,2025,G,G,UAB,Mississippi,56.9,56.9,,,719.0,133.0
+132433,Caleb Carter,2024,2025,G,G,Western Carolina,Michigan State,59.6,59.6,,,879.0,142.0
+143757,D'Angalo Titialii,2023,2024,C,C,Portland State,Washington,40.2,40.2,,,621.0,739.0
+77545,Mike Novitsky,2020,2021,C,C,Buffalo,Kansas,69.3,69.3,,,454.0,748.0
+55143,Mike Purcell,2022,2023,C,C,Elon,Maryland,42.3,42.3,,,771.0,411.0
+91678,Jack Burns,2021,2022,C,C,Cornell,Duke,71.0,71.0,,,699.0,726.0
+149134,Alex Whitmore,2022,2023,DI,DI,Austin Peay,UNLV,60.4,60.4,105.0,446.0,,
+104393,Devonta Davis,2023,2024,DI,DI,Jackson State,Florida Atlantic,46.7,46.7,268.0,480.0,,
+132413,Charlie Jackson,2023,2024,DI,DI,Gardner-Webb,Charlotte,26.6,26.6,526.0,319.0,,
+82511,Jackson Cravens,2022,2023,DI,DI,Boise State,BYU,41.0,41.0,313.0,474.0,10.0,1.0
+91790,Joe Golden,2021,2022,ED,ED,Northern Colorado,Oregon State,29.7,29.7,571.0,127.0,9.0,1.0
+103663,Rason Williams II,2022,2023,DI,DI,Stephen F. Austin,Louisiana Tech,40.7,40.7,148.0,543.0,,
+91288,Brodric Martin,2020,2021,DI,DI,North Alabama,Western Kentucky,40.8,40.8,176.0,369.0,,
+56866,Ifeanyi Maijeh,2020,2021,DI,DI,Temple,Rutgers,48.9,48.9,350.0,447.0,,
+100955,Rick D'Abreu,2022,2023,ED,ED,East Carolina,TCU,41.5,41.5,125.0,146.0,,
+106404,Jalen Bell,2024,2025,DI,DI,Tennessee State,Memphis,64.1,64.1,174.0,122.0,,
+123708,T.J. Jackson,2023,2024,ED,ED,Troy,West Virginia,58.7,58.7,394.0,520.0,,
+141716,Okiki Olorunfunmi,2023,2024,ED,ED,Weber State,New Mexico,8.0,8.0,68.0,196.0,,
+147092,Josaiah Stewart,2022,2023,ED,ED,Coastal Carolina,Michigan,70.1,70.1,541.0,349.0,,
+131903,Cooper McDonald,2023,2024,ED,ED,San Diego State,TCU,45.2,45.2,633.0,322.0,,
+108107,Donnell Brown,2022,2023,ED,ED,St. Francis (PA),Maryland,44.6,44.6,631.0,460.0,,
+158699,Gabe Kirschke,2024,2025,ED,ED,Colorado State,Wake Forest,36.3,36.3,648.0,123.0,,
+156660,Keyron Crawford,2023,2024,ED,ED,Arkansas State,Auburn,46.4,46.4,611.0,334.0,,
+106263,Dylan Wudke,2023,2024,ED,ED,Youngstown State,Kansas,40.8,40.8,475.0,306.0,,
+149961,Kobe Stewart,2023,2024,ED,ED,Samford,Buffalo,41.9,41.9,87.0,673.0,,
+157215,Nuer Gatkuoth,2024,2025,ED,ED,Colorado State,Wake Forest,38.4,38.4,187.0,105.0,,
+105337,Kale Edwards,2023,2024,ED,ED,Montana,New Mexico State,31.6,31.6,609.0,526.0,3.0,
+101405,Noah Potter,2022,2023,ED,ED,Cincinnati,North Carolina State,27.8,27.8,347.0,121.0,,
+98121,Richie Hagarty,2022,2023,ED,ED,Southern Illinois,Northwestern,29.0,29.0,403.0,331.0,,
+75742,Solomon Byrd,2021,2022,ED,ED,Wyoming,USC,56.1,56.1,365.0,405.0,,
+88437,Scotty Humpich,2021,2022,ED,ED,Murray State,Purdue,38.8,38.8,114.0,234.0,,
+165457,Ashaad Hall,2024,2025,ED,ED,South Carolina State,UTEP,35.4,35.4,491.0,147.0,,
+148849,Braden Mullen,2024,2025,ED,ED,Dartmouth,Charlotte,17.9,17.9,630.0,106.0,1.0,
+100437,Stephon Wright,2024,2025,ED,ED,Texas Southern,Connecticut,20.9,20.9,257.0,120.0,,
+102067,Monroe Beard III,2023,2024,LB,LB,Tennessee State,Marshall,83.1,83.1,582.0,118.0,,
+139005,Chandler Martin,2022,2023,LB,LB,East Tennessee State,Memphis,59.2,59.2,717.0,745.0,,
+98123,Dan Foster Jr.,2023,2024,LB,LB,Texas State,Louisville,44.3,44.3,575.0,131.0,,
+130354,JB Brown,2022,2023,LB,LB,Bowling Green,Kansas,43.3,43.3,323.0,573.0,,
+165778,Blaise Tita,2023,2024,LB,LB,Lamar,Rice,47.9,47.9,,226.0,,
+156889,Bryan McCoy Jr.,2024,2025,LB,LB,Akron,Oklahoma State,33.6,33.6,688.0,111.0,,
+159431,Jahsiah Galvan,2023,2024,LB,LB,Northern Iowa,Stanford,41.0,41.0,634.0,126.0,,
+77185,Antonio Grier,2022,2023,LB,LB,USF,Arkansas,40.8,40.8,102.0,281.0,,
+79542,BJ Davis,2022,2023,LB,LB,South Carolina State,East Carolina,41.4,41.4,709.0,480.0,,
+149135,Joshua Rudolph,2022,2023,LB,LB,Austin Peay,Indiana,34.4,34.4,677.0,123.0,,
+88501,Nate Norris,2022,2023,LB,LB,Lehigh,Western Michigan,38.0,38.0,682.0,387.0,,1.0
+77152,Eriq Gilyard,2021,2022,LB,LB,UCF,Kansas,34.3,34.3,161.0,255.0,,
+81272,Lorenzo McCaskill,2021,2022,LB,LB,Louisiana,Kansas,23.2,23.2,589.0,399.0,,
+159115,Marco Patierno,2024,2025,LB,LB,Elon,Eastern Michigan,16.8,16.8,351.0,157.0,,
+89160,Cory McCoy,2020,2021,CB,CB,McNeese State,Marshall,69.3,68.6,446.0,883.0,,
+89166,Andre Sam,2022,2023,S,S,Marshall,LSU,68.6,68.4,632.0,767.0,,
+104023,Myles Heard,2022,2023,S,S,Stephen F. Austin,Louisiana Tech,71.7,71.7,640.0,645.0,,
+121497,Mac McWilliams,2023,2024,CB,CB,UAB,UCF,58.1,58.1,794.0,542.0,,
+149114,Shamari Simmons,2022,2023,S,S,Austin Peay,Arizona State,53.3,53.3,597.0,796.0,,
+150570,Avarion Cole,2023,2024,S,S,North Carolina A&T,Appalachian State,47.4,47.4,682.0,265.0,,
+184348,Jordan Scruggs,2024,2025,CB,CB,South Alabama,West Virginia,59.9,59.9,662.0,110.0,,
+76740,Jeremy Lucien,2021,2022,CB,CB,Connecticut,Vanderbilt,40.4,40.4,484.0,491.0,,
+97676,Josh Wallace,2022,2023,CB,CB,Massachusetts,Michigan,67.6,67.6,739.0,616.0,,
+101078,Ja'Quan Sheppard,2022,2023,CB,CB,Cincinnati,Maryland,61.8,61.8,819.0,660.0,,
+101146,Cam Lampkin,2021,2022,CB,CB,Utah State,Washington State,59.3,59.3,705.0,110.0,,1.0
+105714,Yahsyn McKee,2021,2022,CB,CB,Mercer,Miami (OH),63.9,63.9,517.0,470.0,,
+121345,Elijah Culp,2020,2021,CB,CB,Austin Peay,Troy,49.7,49.7,358.0,373.0,1.0,
+122628,Trey Amos,2022,2023,CB,CB,Louisiana,Alabama,69.2,69.2,585.0,340.0,,
+128307,Dezjhon Malone,2023,2024,CB,CB,San Diego State,Oklahoma,61.3,61.3,692.0,371.0,,
+142101,Arsheen Jiles,2023,2024,CB,CB,Sacred Heart,Massachusetts,51.3,51.3,574.0,470.0,,1.0
+143073,Terrence Spence,2023,2024,CB,CB,Holy Cross,James Madison,49.5,49.5,695.0,529.0,,
+145378,LaMareon James,2023,2024,CB,CB,Old Dominion,TCU,61.5,61.6,824.0,565.0,1.0,
+149264,Ethan Robinson,2023,2024,CB,CB,Bucknell,Minnesota,58.6,58.6,621.0,783.0,,
+149952,Jordan Oladokun,2021,2022,CB,CB,Samford,Bowling Green,71.7,71.7,130.0,675.0,,
+150353,Canden Grogan,2023,2024,CB,CB,Lamar,Texas State,52.7,52.7,467.0,142.0,,
+158982,Ormanie Arnold,2023,2024,CB,CB,Idaho,Cincinnati,32.8,32.8,667.0,372.0,,
+163211,Donavon Platt,2024,2025,CB,CB,Army,Virginia,60.3,60.3,521.0,117.0,,
+172197,Dontay Joyner,2024,2025,CB,CB,Arkansas State,Maryland,60.0,60.0,694.0,153.0,,
+175097,Andrew Marshall,2024,2025,CB,CB,Idaho,Nebraska,64.6,64.6,800.0,105.0,,
+161247,Jayvon Henderson,2024,2025,CB,CB,East Tennessee State,South Alabama,65.6,65.6,476.0,149.0,1.0,
+170699,Jon Johnson,2024,2025,CB,CB,Montana State,New Mexico,76.4,76.4,407.0,129.0,,
+142508,Victor Nelson,2022,2023,S,S,LIU,Boston College,62.6,62.6,767.0,138.0,1.0,1.0
+172777,Devonte' Mathews,2023,2024,S,S,Nicholls,Western Kentucky,65.6,65.6,437.0,780.0,2.0,
+148243,Tucker Large,2024,2025,S,S,South Dakota State,Washington State,48.8,48.8,458.0,123.0,,
+105568,Max Brosmer,2023,2024,QB,QB,New Hampshire,Minnesota,65.0,60.5,,,782.0,818.0
+171556,Devon Dampier,2024,2025,QB,QB,New Mexico,Utah,62.4,59.0,,,895.0,216.0
+147609,Gevani McCoy,2023,2024,QB,QB,Idaho,Oregon State,58.0,51.3,,,787.0,532.0
+167095,Floyd Chalk IV,2023,2024,HB,HB,Grambling State,San Jose State,59.2,68.4,,,251.0,558.0
+78578,Ty Son Lawton,2023,2024,HB,HB,James Madison,Indiana,40.8,43.8,,,400.0,339.0
+150238,Braedon Sloan,2023,2024,HB,HB,Eastern Kentucky,Ball State,33.4,38.6,,,461.0,511.0
+156922,Jamoni Jones,2023,2024,HB,HB,New Mexico State,Vanderbilt,29.1,29.1,,,396.0,118.0
+138400,Sy'veon Wilkerson,2022,2023,HB,HB,Jackson State,Colorado,18.5,18.5,,,600.0,136.0
+83732,Brian Snead,2021,2022,HB,HB,Austin Peay,Arkansas State,22.0,22.9,,,227.0,201.0
+97773,Jaren Mangham,2022,2023,HB,HB,USF,Michigan State,37.7,39.5,,,68.0,105.0
+97105,Cam Ross,2024,2025,WR,WR,James Madison,Virginia,55.4,55.2,,,710.0,120.0
+158022,Reggie Virgil,2024,2025,WR,WR,Miami (OH),Texas Tech,65.9,65.8,,,604.0,129.0
+88746,Landon Parker,2022,2023,WR,WR,Wofford,Troy,46.0,45.6,,,483.0,201.0
+123616,LaJohntay Wester,2023,2024,WR,WR,Florida Atlantic,Colorado,64.7,66.6,2.0,1.0,680.0,756.0
+101711,Dalevon Campbell,2023,2024,WR,WR,Nevada,South Carolina,52.4,52.2,,,648.0,283.0
+143759,Nate Bennett,2023,2024,WR,WR,Portland State,San Diego State,47.2,46.2,,,464.0,515.0
+97620,Zakhari Franklin,2022,2023,WR,WR,UTSA,Mississippi,61.4,63.2,,,977.0,138.0
+151266,Jake Bruno,2023,2024,TE,TE,St. Francis (PA),Ohio,38.2,36.9,,,558.0,268.0
+163139,Chrishon McCray,2024,2025,WR,WR,Kent State,Michigan State,56.4,56.3,,,493.0,104.0
+164032,Kenny Odom,2023,2024,WR,WR,Austin Peay,UTEP,68.1,68.1,1.0,,248.0,703.0
+157518,Jacoby Jones,2023,2024,WR,WR,Ohio,UCF,53.8,53.7,,1.0,103.0,311.0
+149138,Kam Thomas,2023,2024,WR,WR,Austin Peay,UTEP,54.0,53.9,2.0,,546.0,543.0
+97287,Trevor Wilson,2020,2021,WR,WR,Buffalo,Kansas,62.2,64.9,,,129.0,390.0
+78578,Ty Son Lawton,2022,2023,HB,HB,Stony Brook,James Madison,40.8,43.8,,,83.0,400.0
+157480,Darius Lassiter,2022,2023,WR,WR,Eastern Michigan,BYU,59.3,59.2,,,519.0,409.0
+145196,Jahmal Edrine,2023,2024,WR,WR,Florida Atlantic,Purdue,56.0,55.8,,,,463.0
+109734,Ahmad Edwards,2022,2023,WR,WR,Jacksonville State,Ball State,48.8,48.8,,,518.0,678.0
+102592,Ayir Asante,2022,2023,WR,WR,Holy Cross,Wyoming,49.2,49.3,1.0,,589.0,331.0
+142525,Jacari Carter,2022,2023,WR,WR,Merrimack,Georgia State,41.9,42.0,1.0,1.0,531.0,395.0
+123583,Jadon Thompson,2022,2023,WR,WR,Cincinnati,Louisville,41.0,42.0,,,452.0,261.0
+147570,Josh Cuevas,2022,2023,TE,TE,Cal Poly,Washington,47.5,48.6,,1.0,613.0,144.0
+109511,Quinton Lane,2022,2023,WR,WR,Stetson,Jacksonville State,40.4,40.4,,,607.0,650.0
+123625,Rivaldo Fairweather,2022,2023,TE,TE,Florida International,Auburn,44.7,47.1,,,476.0,589.0
+101139,Ryan O'Keefe,2022,2023,WR,WR,UCF,Boston College,62.3,65.1,,,761.0,204.0
+61767,Drew Tejchman,2019,2020,S,S,Jacksonville State,UNLV,54.3,53.8,,161.0,,
+102597,Jerreth Sterns,2020,2021,WR,WR,Houston Baptist,Western Kentucky,100.0,100.0,,2.0,302.0,888.0
+55283,Keith Pearson,2020,2021,WR,WR,Presbyterian,Charlotte,64.5,68.1,,,458.0,187.0
+87665,Michael Jefferson,2020,2021,WR,WR,Alabama State,Louisiana,62.7,64.2,,4.0,375.0,308.0
+84427,Remi Simmons,2020,2021,WR,WR,Stephen F. Austin,Central Michigan,51.7,53.4,,,425.0,299.0
+75883,Josiah Johnson,2022,2023,TE,TE,Massachusetts,Oklahoma State,40.4,40.7,,,578.0,698.0
+177868,E. Jai Mason,2024,2025,WR,WR,Samford,Charlotte,65.5,65.5,,,598.0,172.0
+173738,Jaden Barnes,2024,2025,WR,WR,Austin Peay,Appalachian State,79.9,79.9,,,670.0,132.0
+78198,Shane Hooks,2019,2020,WR,WR,Jackson State,Ohio,50.6,51.9,,,,111.0
+173303,Luke McGary,2024,2025,TE,TE,Tulsa,Houston,46.3,49.0,,,523.0,125.0
+146008,Tanner Arkin,2022,2023,TE,TE,Colorado State,Illinois,35.9,38.0,,,444.0,130.0
+148818,Jace Henry,2023,2024,TE,TE,Dartmouth,Nevada,43.6,46.8,,,396.0,213.0
+146291,Keleki Latu,2023,2024,TE,TE,Nevada,Washington,45.1,49.0,,,352.0,777.0
+148361,Zach Horton,2023,2024,TE,TE,James Madison,Indiana,52.9,56.3,,,777.0,688.0
+145747,Andreas Paaske,2023,2024,TE,TE,Eastern Michigan,Arkansas,33.7,36.5,1.0,,168.0,199.0
+121905,Jake Roberts,2022,2023,TE,TE,North Texas,Baylor,46.9,49.1,,,649.0,324.0
+145319,Var'keyes Gumms,2022,2023,TE,TE,North Texas,Arkansas,51.5,52.6,,,444.0,122.0
+61086,Josh Burgett,2021,2022,TE,TE,Youngstown State,Western Michigan,21.4,22.4,,,352.0,207.0
+60179,Justice Oluwaseun,2020,2021,T,T,UNLV,Miami (FL),65.3,65.3,,,432.0,257.0
+98528,Victor Stoffel,2023,2024,T,T,Temple,California,60.6,60.6,,,876.0,186.0
+99413,Willie Tyler,2021,2022,T,T,Louisiana-Monroe,Rutgers,59.4,59.4,,,666.0,564.0
+102324,Keagen Trost,2023,2024,T,T,Indiana State,Wake Forest,66.8,66.8,,,432.0,772.0
+122104,Daniel Keys,2023,2024,T,T,Stephen F. Austin,Louisiana Tech,67.8,67.8,,,795.0,767.0
+122688,Dakota White,2023,2024,T,T,Louisiana Tech,Houston,48.6,48.6,,,702.0,202.0
+144276,Makylan Pounders,2023,2024,T,T,Memphis,Mississippi State,53.3,53.3,,,673.0,574.0
+151251,Jesse Ramil,2023,2024,T,T,St. Francis (PA),James Madison,68.6,68.6,,,609.0,676.0
+159070,Peseti Lapuaho,2023,2024,T,T,Weber State,San Jose State,39.3,39.3,,,79.0,892.0
+153302,Tyler McDuffie,2024,2025,T,T,Hampton,Marshall,49.4,49.4,,,878.0,141.0
+156877,Daniel King,2024,2025,G,G,Troy,North Carolina,69.2,69.2,,,789.0,133.0
+158777,Drew Azzopardi,2023,2024,T,T,San Diego State,Washington,75.3,75.3,,,409.0,852.0
+145324,Febechi Nwaiwu,2023,2024,G,G,North Texas,Oklahoma,66.7,66.7,,,713.0,864.0
+164205,Zach Cochnauer,2024,2025,T,T,Central Arkansas,Nevada,68.6,68.6,,,526.0,149.0
+40256,Tyler Witt,2020,2021,G,G,Western Kentucky,Purdue,63.7,63.7,,,725.0,964.0
+60046,Chris Martinez,2021,2022,G,G,San Diego State,Arizona State,58.9,58.9,,,839.0,826.0
+77433,Max Banes,2022,2023,G,G,Akron,Houston,69.9,69.9,,,506.0,124.0
+77449,Prince Pines,2021,2022,G,G,Sam Houston State,Tulane,53.4,53.4,,,872.0,872.0
+102821,O'Cyrus Torrence,2021,2022,G,G,Louisiana,Florida,84.7,84.7,,,807.0,698.0
+143064,Eric Schon,2023,2024,G,G,Holy Cross,Duke,72.2,72.2,,,716.0,106.0
+151192,CJ James Jr.,2021,2022,C,C,Abilene Christian,New Mexico,54.3,54.3,,,658.0,613.0
+156597,Keylan Rutledge,2023,2024,G,G,Middle Tennessee,Georgia Tech,69.5,69.5,,,760.0,904.0
+164383,Omar Aigbedion,2023,2024,G,G,Montana State,Baylor,75.9,75.9,,,665.0,838.0
+103865,Evan Beerntsen,2024,2025,G,G,South Dakota State,Northwestern,79.2,79.2,,,875.0,191.0
+171814,Hadine Diaby,2024,2025,G,G,Tennessee State,Nevada,32.0,32.0,,,774.0,133.0
+148813,Kyle Brown,2024,2025,G,G,Dartmouth,Massachusetts,65.3,65.3,,,467.0,112.0
+101261,Leif Fautanu,2022,2023,C,C,UNLV,Arizona State,65.4,65.4,,,760.0,850.0
+145875,Pete Nygra,2023,2024,C,C,Northern Illinois,Louisville,66.7,66.7,,,772.0,848.0
+108599,Scott Elliott,2022,2023,C,C,Harvard,Duke,34.6,34.6,,,677.0,434.0
+147682,Sebastian Valdez,2023,2024,DI,DI,Montana State,Washington,66.1,66.1,560.0,558.0,,
+97962,Kevin Pointer,2020,2021,DI,DI,Louisiana-Monroe,Wake Forest,44.8,44.8,392.0,107.0,,
+97750,Marley Cook,2023,2024,DI,DI,Middle Tennessee,Miami (FL),48.4,48.4,622.0,155.0,,
+155389,Nate Martey,2022,2023,DI,DI,Princeton,Arkansas State,43.7,43.7,298.0,486.0,,
+150107,Elinus Noel III,2023,2024,DI,DI,Texas Southern,Baylor,32.7,32.7,523.0,430.0,,
+109251,Jack Daly,2022,2023,DI,DI,Bryant University,Florida International,20.9,20.9,526.0,559.0,,
+88452,James Makszin,2022,2023,DI,DI,Rhode Island,Ball State,30.5,30.5,446.0,301.0,,
+82265,Leonard Payne Jr.,2022,2023,DI,DI,Fresno State,Colorado,47.1,47.1,214.0,415.0,,
+75285,Aneesh Vyas,2024,2025,DI,DI,Bucknell,Wyoming,17.5,17.5,613.0,107.0,,
+100347,Ronald McGee,2020,2021,DI,DI,Buffalo,Kansas,30.3,30.3,92.0,241.0,,
+138455,Mikail Kamara,2023,2024,ED,ED,James Madison,Indiana,59.7,59.7,722.0,671.0,,
+76813,Antonio Colclough,2023,2024,ED,ED,Monmouth,Buffalo,46.2,46.2,341.0,389.0,,
+147407,Langston Hardy,2024,2025,ED,ED,Connecticut,Wake Forest,50.7,50.7,585.0,152.0,1.0,
+150369,Breylon Charles,2023,2024,ED,ED,Lamar,North Texas,40.5,40.5,,455.0,,
+98178,Jaylen Pate,2021,2022,ED,ED,Wyoming,Northwestern,31.2,31.2,309.0,124.0,,
+128432,Braden Siders,2024,2025,ED,ED,Wyoming,West Virginia,40.9,40.9,280.0,115.0,,
+138152,Giovanni Davis,2023,2024,ED,ED,Tennessee-Martin,Florida International,30.5,30.5,485.0,456.0,,
+147813,DeShawn Lynch,2023,2024,ED,ED,Sacramento State,Washington,26.6,26.6,534.0,274.0,,
+98193,Quindarius Dunnigan,2023,2024,ED,ED,Middle Tennessee,Michigan State,39.2,39.2,581.0,245.0,,
+83346,Paul Moala,2022,2023,LB,LB,Idaho,Georgia Tech,70.1,70.1,723.0,699.0,,
+158637,Nathan Voorhis,2024,2025,ED,ED,Bryant University,Ball State,62.4,62.4,525.0,143.0,,
+62494,Alex Howard,2023,2024,LB,LB,Youngstown State,Duke,61.6,61.6,684.0,645.0,,
+102118,Jacob Dobbs,2023,2024,LB,LB,Holy Cross,James Madison,49.7,49.7,605.0,502.0,,
+86729,Ozzie Nicholas,2023,2024,LB,LB,Princeton,Duke,49.3,49.3,715.0,703.0,,
+99728,Demetrius Knight Jr.,2023,2024,LB,LB,Charlotte,South Carolina,38.5,38.5,619.0,572.0,,1.0
+148812,Macklin Ayers,2023,2024,LB,LB,Dartmouth,Massachusetts,23.5,23.5,665.0,175.0,,1.0
+130573,Daveren Rayner,2022,2023,LB,LB,Northern Illinois,Kentucky,44.0,44.0,449.0,213.0,,
+77254,Ryan Selig,2022,2023,LB,LB,Western Michigan,Minnesota,30.0,30.0,747.0,298.0,,
+75826,Blaze Alldredge,2020,2021,LB,LB,Rice,Missouri,44.0,44.0,309.0,675.0,3.0,
+192037,Anthony Palano,2024,2025,LB,LB,South Dakota State,Washington State,21.4,21.4,,103.0,,
+175078,Jaxton Eck,2024,2025,LB,LB,Idaho,New Mexico,46.2,46.2,700.0,171.0,2.0,
+133963,Ray Coney,2024,2025,LB,LB,East Tennessee State,Tulsa,38.4,38.4,655.0,211.0,,
+78673,Decorian Patterson,2022,2023,CB,CB,Middle Tennessee,UCF,48.4,48.4,861.0,428.0,,
+83459,Beanie Bishop Jr.,2021,2022,CB,CB,Western Kentucky,Minnesota,61.5,61.2,492.0,303.0,,
+98838,Shilo Sanders,2022,2023,S,S,Jackson State,Colorado,65.1,65.1,349.0,779.0,,
+138981,Sheldon Arnold II,2023,2024,S,S,East Tennessee State,UCF,59.4,59.4,778.0,600.0,,
+145309,Jakobe Thomas,2023,2024,S,S,Middle Tennessee,Tennessee,53.8,53.5,767.0,263.0,,
+145627,Jordan Riley,2023,2024,S,S,Ball State,Kansas State,54.9,54.7,699.0,444.0,,
+150011,Andreas Keaton,2023,2024,S,S,Western Carolina,Temple,57.1,57.1,577.0,753.0,,
+150058,Brian Mayes,2023,2024,CB,CB,UAB,Texas A&M,54.4,54.4,597.0,490.0,,
+160267,Adrian Maddox,2023,2024,CB,CB,Alabama State,UAB,63.1,63.1,604.0,393.0,,
+163349,A.J. Haulcy,2022,2023,S,S,New Mexico,Houston,64.4,64.2,643.0,775.0,,
+89166,Andre Sam,2021,2022,S,S,McNeese State,Marshall,68.6,68.4,754.0,632.0,,
+98838,Shilo Sanders,2019,2020,S,S,Jackson State,South Carolina,65.1,65.1,,316.0,,
+65033,Akayleb Evans,2020,2021,CB,CB,Tulsa,Missouri,45.6,45.7,468.0,597.0,,
+65081,Allie Green IV,2020,2021,CB,CB,Tulsa,Missouri,40.5,40.6,471.0,455.0,,
+84268,Josh Newton,2021,2022,CB,CB,Louisiana-Monroe,TCU,58.7,58.7,694.0,943.0,,
+97468,Trevon Booker,2023,2024,CB,CB,Campbell,Charlotte,32.9,32.9,363.0,329.0,,
+103580,Jarius Monroe,2021,2022,CB,CB,Nicholls,Tulane,71.8,71.8,622.0,743.0,,
+103583,Devyn Coles,2021,2022,CB,CB,Norfolk State,James Madison,74.2,74.2,408.0,164.0,,
+103620,Kam Alexander,2022,2023,CB,CB,Sam Houston State,UTSA,77.0,77.0,269.0,597.0,,
+104323,Glenn Brown,2022,2023,CB,CB,Southern University,Louisiana,60.6,60.6,460.0,309.0,,
+105835,Amir Wallace,2023,2024,CB,CB,San Diego,San Jose State,51.4,51.4,288.0,443.0,,
+121668,Channing Canada,2022,2023,CB,CB,Houston Christian,TCU,54.8,54.8,,320.0,,
+148086,Johnathan Edwards,2023,2024,CB,CB,Indiana State,Tulane,50.4,50.4,572.0,457.0,,
+148570,Ayden Garnes,2023,2024,CB,CB,Duquesne,West Virginia,55.1,55.1,688.0,308.0,,
+156723,Brent Austin,2024,2025,CB,CB,USF,California,65.2,65.2,753.0,180.0,,
+159385,Bilhal Kone,2022,2023,CB,CB,Indiana State,Western Michigan,59.3,59.3,541.0,462.0,,
+159892,Jason Chambers,2024,2025,CB,CB,Appalachian State,West Virginia,58.9,58.9,506.0,163.0,,
+169935,DeAgo Brumfeld,2023,2024,CB,CB,Memphis,Mississippi State,58.0,58.0,752.0,178.0,,
+141638,Colby Humphrey,2024,2025,CB,CB,South Dakota State,Washington State,61.5,61.5,538.0,136.0,1.0,
+160106,Jaden Rios,2024,2025,CB,CB,East Texas A&M,Texas State,62.0,62.0,627.0,135.0,1.0,
+161488,Tre Bell,2024,2025,CB,CB,Lindenwood,Iowa State,80.2,80.2,315.0,115.0,,
+60658,Kenderick Duncan,2020,2021,S,S,Georgia Southern,Louisville,72.7,72.4,362.0,800.0,,1.0
+98903,Maurice Hampton Jr.,2023,2024,S,S,Memphis,Vanderbilt,61.4,61.4,,144.0,,
+149428,Jake Jarmolowich,2024,2025,S,S,Holy Cross,Colorado State,68.7,68.7,706.0,116.0,,
+158433,Thomas Castellanos,2022,2023,QB,QB,UCF,Boston College,47.7,44.8,,,61.0,887.0
+150302,Matthew Caldwell,2023,2024,QB,QB,Gardner-Webb,Troy,45.7,35.3,,,325.0,497.0
+98002,Grayson McCall,2023,2024,QB,QB,Coastal Carolina,North Carolina State,86.3,88.1,,,471.0,157.0
+78501,Jeff Undercuffler,2021,2022,QB,QB,Albany,Akron,24.1,22.2,,,519.0,226.0
+128176,Logan Fife,2024,2025,QB,QB,Montana,New Mexico State,37.6,38.0,,,576.0,198.0
+77656,Tanner Mordecai,2022,2023,QB,QB,SMU,Wisconsin,69.9,70.7,,,871.0,676.0
+40110,McKenzie Milton,2020,2021,QB,QB,UCF,Florida State,51.7,55.6,,,,279.0
+99476,Maverick McIvor,2024,2025,QB,QB,Abilene Christian,Western Kentucky,60.0,60.0,,,917.0,198.0
+192135,Baylor Hayes,2024,2025,QB,QB,East Tennessee State,Tulsa,35.8,35.8,,,80.0,110.0
+158966,Jack Layne,2024,2025,QB,QB,Idaho,New Mexico,43.4,43.4,,,335.0,206.0
+160350,NaQuari Rogers,2024,2025,HB,HB,New Mexico,Utah,34.5,37.1,1.0,,158.0,105.0
+102382,Jacory Croskey-Merritt,2022,2023,HB,HB,Alabama State,New Mexico,61.4,63.4,,,328.0,433.0
+123274,Brian Battie,2022,2023,HB,HB,USF,Auburn,45.4,46.3,,,431.0,124.0
+145632,Carson Steele,2022,2023,HB,HB,Ball State,UCLA,67.9,69.0,,,684.0,424.0
+104852,Donavyn Lester,2022,2023,HB,HB,William & Mary,UNLV,39.6,39.6,,,184.0,345.0
+122630,Emani Bailey,2021,2022,HB,HB,Louisiana,TCU,74.7,74.7,,,232.0,101.0
+159654,Jordan Gant,2024,2025,HB,HB,Tennessee State,Akron,24.7,24.8,,,253.0,116.0
+161339,Rahkeem Smith,2023,2024,WR,WR,Delaware State,Bowling Green,62.2,61.8,,,256.0,341.0
+142935,Dymere Miller,2023,2024,WR,WR,Monmouth,Rutgers,59.7,59.7,,,599.0,798.0
+142483,Davon Wells,2023,2024,WR,WR,LIU,Louisiana-Monroe,53.2,52.7,,,562.0,337.0
+145441,Fred Farrier II,2023,2024,WR,WR,UAB,Kentucky,51.4,51.2,,1.0,490.0,299.0
+102637,Jaden Smith,2023,2024,WR,WR,Tarleton State,Nevada,66.5,66.5,,,360.0,845.0
+102578,Jakobie Keeney-James,2023,2024,WR,WR,Eastern Washington,Massachusetts,65.1,65.0,,,202.0,789.0
+144234,Will Pauling,2022,2023,WR,WR,Cincinnati,Wisconsin,51.2,51.1,,,125.0,660.0
+156582,Cyrus Allen,2023,2024,WR,WR,Louisiana Tech,Texas A&M,54.2,54.0,,,647.0,413.0
+149817,Andrew McElroy,2023,2024,WR,WR,St. Thomas,Northern Illinois,55.9,55.3,1.0,,370.0,331.0
+106748,C.J. Charleston,2023,2024,WR,WR,Youngstown State,Michigan,57.9,57.4,,,514.0,147.0
+123709,Tez Johnson,2022,2023,WR,WR,Troy,Oregon,69.4,71.6,,,350.0,504.0
+84401,Isaiah Hamilton,2022,2023,WR,WR,San Jose State,Washington State,52.3,54.0,,,117.0,258.0
+100894,Jacob Cowing,2021,2022,WR,WR,UTEP,Arizona,69.5,71.8,,,686.0,749.0
+87662,Jeremiah Hixon,2022,2023,WR,WR,Alabama State,New Mexico,73.3,73.3,,,489.0,465.0
+159703,Malik Baker,2022,2023,WR,WR,Tennessee-Martin,Charlotte,30.5,30.5,,,16.0,110.0
+105004,Shawn Harris Jr.,2022,2023,WR,WR,Stony Brook,Massachusetts,40.1,40.1,,,467.0,142.0
+147647,Charles Brown,2021,2022,WR,WR,Montana State,Texas State,44.7,44.7,,,48.0,430.0
+146387,Keontez Lewis,2024,2025,WR,WR,Southern Illinois,Oklahoma,37.4,37.4,,,512.0,171.0
+61271,Matt Landers,2021,2022,WR,WR,Toledo,Arkansas,53.1,54.7,,,211.0,836.0
+102567,Tyler Hudson,2021,2022,WR,WR,Central Arkansas,Louisville,91.3,91.3,,,639.0,724.0
+102544,Brandon Sanders,2020,2021,WR,WR,Bucknell,Rutgers,51.4,53.5,,,232.0,251.0
+165302,Colin Chase,2024,2025,WR,WR,St. Thomas,Temple,45.8,45.8,,,549.0,159.0
+170781,Danny Scudero,2024,2025,WR,WR,Sacramento State,San Jose State,61.9,61.9,,,464.0,129.0
+145365,Levi Wentz,2024,2025,WR,WR,Albany,Kansas,41.3,41.3,1.0,,563.0,107.0
+177939,Zion Booker,2024,2025,WR,WR,Western Carolina,Tulsa,70.7,70.7,,,394.0,141.0
+164014,Gerard Bullock Jr.,2024,2025,TE,TE,Tennessee State,Kennesaw State,55.7,55.7,,,755.0,172.0
+148960,Justin Cayenne,2024,2025,TE,TE,Pennsylvania,Florida International,41.3,41.3,,,437.0,103.0
+145631,Brady Hunt,2023,2024,TE,TE,Ball State,South Carolina,37.2,39.2,,,,149.0
+98358,Joshua Simon,2022,2023,TE,TE,Western Kentucky,South Carolina,63.7,66.3,,1.0,348.0,393.0
+148074,Tyce Ferrell,2023,2024,TE,TE,Indiana State,Ball State,37.4,44.0,,,360.0,228.0
+141877,Connor Briggs,2023,2024,TE,TE,Southeastern Louisiana,Miami (OH),33.9,39.9,,,266.0,121.0
+109367,Zion Carter,2022,2023,TE,TE,Dartmouth,Buffalo,29.0,29.0,,,148.0,158.0
+121508,Brady Wilson,2024,2025,C,C,UAB,Virginia,68.1,68.5,,,863.0,181.0
+102326,Allen Jones Jr.,2023,2024,T,T,Prairie View A&M,Toledo,44.8,44.8,,,249.0,579.0
+108533,Tedi Kushi,2022,2023,T,T,LIU,Western Michigan,66.3,66.3,,,707.0,414.0
+133226,Nash Jones,2022,2023,T,T,Incarnate Word,Texas State,66.3,66.3,,,944.0,397.0
+148009,Kyrik Mason,2023,2024,T,T,Monmouth,Georgia State,82.0,82.0,,,566.0,113.0
+185813,Brandon Sneh,2024,2025,T,T,Wagner,UAB,76.4,76.4,,,586.0,201.0
+123340,Derrell Bailey Jr.,2024,2025,T,T,East Tennessee State,Georgia State,69.4,69.4,,,788.0,178.0
+177806,Jacob Russell,2024,2025,T,T,Valparaiso,Central Michigan,57.7,57.7,,,612.0,132.0
+142968,Ajani Cornelius,2022,2023,T,T,Rhode Island,Oregon,70.9,70.9,,,720.0,899.0
+78371,Jacob Peace,2021,2022,G,G,Virginia Military Institute,Florida International,38.3,38.3,,,741.0,659.0
+98061,Jack Bailey,2022,2023,G,G,Kent State,Colorado,62.4,62.4,,,880.0,753.0
+100779,Danny Corbett,2021,2022,G,G,Campbell,Georgia Southern,61.3,61.3,,,476.0,160.0
+130408,Michael Ford Jr.,2020,2021,G,G,Buffalo,Kansas,72.4,72.4,,,17.0,727.0
+133127,Walter Young Bear,2024,2025,G,G,Tulsa,West Virginia,62.0,62.0,,,907.0,214.0
+147012,Jordan Spasojevic-Moko,2024,2025,G,G,Charlotte,California,61.5,61.5,,,562.0,160.0
+147180,Peyton Dunn,2022,2023,G,G,Louisiana-Monroe,Houston,48.8,48.8,,,615.0,115.0
+158004,Davion Carter,2023,2024,G,G,Memphis,Texas Tech,75.9,75.9,,,852.0,870.0
+177028,Josiah Chenault,2024,2025,C,C,Howard,Kennesaw State,82.4,82.4,,,663.0,151.0
+106662,Chris Fitzgerald,2023,2024,DI,DI,Youngstown State,James Madison,56.0,56.0,385.0,495.0,,
+121769,Cam'Ron Jackson,2022,2023,DI,DI,Memphis,Florida,41.4,41.4,577.0,281.0,,
+148483,Bryce Ganious,2022,2023,DI,DI,Villanova,Wake Forest,42.3,42.3,631.0,421.0,,
+145383,Alonzo Ford Jr.,2023,2024,DI,DI,Old Dominion,Penn State,31.3,31.3,,186.0,,
+105249,Nathan Kapongo,2023,2024,DI,DI,New Hampshire,Akron,44.7,44.7,469.0,520.0,1.0,
+128421,Gavin Meyer,2023,2024,DI,DI,Wyoming,USC,55.3,55.3,351.0,453.0,,
+154018,Naejuan Barber,2023,2024,DI,DI,South Carolina State,Coastal Carolina,30.5,30.5,400.0,293.0,,
+98604,Marcus Bragg,2021,2022,ED,ED,Western Kentucky,Auburn,34.3,34.3,400.0,387.0,,
+82430,Mohamed Diallo,2020,2021,ED,ED,Central Michigan,Arizona,54.7,54.7,207.0,324.0,,
+155869,Eric O'Neill,2023,2024,ED,ED,LIU,James Madison,71.0,71.0,716.0,589.0,1.0,
+104402,Khairi Manns,2022,2023,ED,ED,Maine,Colorado,61.9,61.9,363.0,135.0,,
+148771,Malin White,2023,2024,ED,ED,Cornell,Buffalo,45.9,45.9,285.0,273.0,,5.0
+142424,John Pius,2023,2024,ED,ED,William & Mary,Wisconsin,62.6,62.6,627.0,334.0,,
+123287,Tramel Logan,2023,2024,ED,ED,USF,Louisville,47.1,47.1,523.0,307.0,,
+159893,Kendrick DuJour,2023,2024,ED,ED,North Carolina Central,Sam Houston State,58.0,58.0,296.0,209.0,,
+146179,Tre Smith,2023,2024,ED,ED,San Jose State,Arizona,51.6,51.6,690.0,566.0,,
+132404,Brice Bass,2023,2024,ED,ED,Gardner-Webb,Texas State,43.6,43.6,441.0,508.0,10.0,
+97960,Richard Kinley,2023,2024,ED,ED,Middle Tennessee,Louisville,36.5,36.5,400.0,124.0,,
+102860,Jamil Muhammad,2022,2023,ED,ED,Georgia State,USC,45.2,45.2,511.0,502.0,,
+104365,Jack Barton,2023,2024,ED,ED,Furman,Connecticut,28.9,28.9,435.0,376.0,5.0,
+122747,Devin Goree,2023,2024,ED,ED,Missouri State,UTEP,20.4,20.4,478.0,155.0,,
+76957,Andre Carter,2022,2023,ED,ED,Western Michigan,Indiana,50.0,50.0,715.0,697.0,,
+104364,Antonio Smith,2022,2023,ED,ED,Tarleton State,Akron,20.9,20.9,,185.0,,
+83724,Daniel Grzesiak,2022,2023,ED,ED,Utah State,Cincinnati,64.1,64.1,810.0,575.0,4.0,
+82645,Eyabi Okie-Anoma,2021,2022,ED,ED,Tennessee-Martin,Michigan,53.0,53.0,308.0,292.0,,
+79348,Kwame Sutton,2022,2023,ED,ED,Austin Peay,Ohio,37.3,37.3,403.0,197.0,,
+133626,Anas Luqman,2024,2025,ED,ED,Arkansas-Pine Bluff,Ohio,31.3,31.3,746.0,144.0,,
+172683,Brayden Manley,2024,2025,ED,ED,Mercer,Georgia Tech,24.6,24.6,573.0,111.0,,
+149576,Finn Claypool,2024,2025,ED,ED,Drake,Fresno State,43.8,43.8,597.0,141.0,,
+175089,Keyshawn James-Newby,2024,2025,ED,ED,Idaho,New Mexico,52.8,52.8,583.0,159.0,,
+122261,Tony Anyanwu,2024,2025,ED,ED,Stephen F. Austin,Rice,39.1,39.1,384.0,118.0,,
+54193,Jaheim Thomas,2022,2023,LB,LB,Cincinnati,Arkansas,46.3,46.3,443.0,528.0,,
+103830,Brevin Randle,2022,2023,LB,LB,Stephen F. Austin,Louisiana Tech,39.3,39.3,96.0,663.0,,
+169223,Max Harris,2024,2025,LB,LB,Texas State,Arizona,48.7,48.7,392.0,140.0,,
+147163,Kendre' Gant,2023,2024,LB,LB,Louisiana,Houston,45.5,45.5,536.0,186.0,,
+122396,Stephen Dix Jr.,2023,2024,LB,LB,Marshall,Arkansas,27.4,27.4,538.0,548.0,,1.0
+98532,Tatum Bethune,2021,2022,LB,LB,UCF,Florida State,45.9,45.9,641.0,502.0,,
+105332,Trimarcus Cheeks,2021,2022,LB,LB,Samford,Houston,28.4,28.4,654.0,287.0,,
+55050,Troy Brown,2021,2022,LB,LB,Central Michigan,Mississippi,72.9,72.9,534.0,565.0,,
+83413,Jaylen Key,2022,2023,S,S,UAB,Alabama,73.6,73.4,521.0,693.0,,
+97144,Malik Fleming,2022,2023,CB,CB,East Carolina,Houston,58.0,57.8,867.0,675.0,,
+97220,Anthony Wilson,2022,2023,S,S,Georgia Southern,West Virginia,59.1,58.8,993.0,787.0,,
+98860,DJ Douglas,2023,2024,S,S,Tulane,Florida,66.0,65.7,652.0,245.0,1.0,
+102465,Shawn Holton,2022,2023,S,S,Incarnate Word,Texas State,50.4,50.4,440.0,862.0,,
+125305,Marques Sigle,2022,2023,CB,CB,North Dakota State,Kansas State,58.4,58.4,232.0,721.0,,
+138115,Jyron Gilmore,2023,2024,CB,CB,Tennessee Tech,Georgia State,47.5,47.5,631.0,779.0,,
+155503,Donald Lee,2023,2024,CB,CB,Grambling State,UAB,29.6,29.6,409.0,230.0,,
+157707,Xavier Smith,2023,2024,S,S,Austin Peay,UTEP,56.7,56.7,594.0,624.0,,1.0
+42620,Brandon Moore,2021,2022,CB,CB,UCF,Nebraska,39.9,40.2,,137.0,,
+75699,Rashad Ajayi,2021,2022,CB,CB,Colorado State,West Virginia,51.5,51.5,754.0,430.0,,
+78999,Marque Collins,2023,2024,CB,CB,Weber State,BYU,46.7,46.7,82.0,725.0,,
+83237,Dylan Wyatt,2022,2023,CB,CB,Cal Poly,Arizona,71.7,71.7,634.0,172.0,,
+83356,Tyrek Funderburk,2022,2023,CB,CB,Richmond,Appalachian State,59.9,59.9,723.0,727.0,,
+97230,Marcus Harris,2023,2024,CB,CB,Idaho,California,54.0,54.0,764.0,802.0,,
+103561,Kamden Garrett,2022,2023,CB,CB,Weber State,BYU,50.5,50.5,576.0,594.0,,
+104234,JT Thompson,2020,2021,CB,CB,Southern Illinois,Boston College,79.7,79.7,633.0,292.0,,
+105068,Tre'Von Jones,2022,2023,CB,CB,Elon,Minnesota,68.4,68.4,580.0,719.0,,
+123734,Davonte Brown,2022,2023,CB,CB,UCF,Miami (FL),71.3,71.3,711.0,180.0,,
+139116,Alex Oliver,2023,2024,CB,CB,Virginia Military Institute,Liberty,34.9,35.0,595.0,330.0,,
+142350,Aamir Hall,2023,2024,CB,CB,Albany,Michigan,46.9,46.9,975.0,511.0,,
+145889,Torrie Cox Jr.,2023,2024,CB,CB,Ohio,Illinois,59.3,59.3,483.0,462.0,,
+157447,Isaiah Brown-Murray,2024,2025,CB,CB,East Carolina,Virginia Tech,54.4,54.4,830.0,112.0,,
+159665,Bryce Phillips,2023,2024,CB,CB,Tennessee State,San Diego State,56.7,56.7,646.0,719.0,,
+163962,Jabari Mack,2024,2025,CB,CB,Jacksonville State,Louisville,64.0,64.0,521.0,117.0,,
+171518,Jaylen Castleberry,2024,2025,CB,CB,Youngstown State,Temple,85.6,85.6,493.0,130.0,,
+131568,Khary Crump,2024,2025,CB,CB,Houston Christian,Rice,57.0,57.0,732.0,159.0,,
+147821,Cameron Broussard,2023,2024,S,S,Sacramento State,Washington,67.9,67.9,609.0,511.0,,
+160124,Ian Conerly-Goodly,2023,2024,S,S,Southeastern Louisiana,Troy,71.0,71.0,690.0,462.0,,
+162994,Tyson Flowers,2024,2025,S,S,Rice,Virginia Tech,61.7,61.7,544.0,126.0,,
+173004,Brevin Hamblin,2024,2025,S,S,Utah Tech,Utah State,35.4,35.4,776.0,239.0,,
+125313,Cole Wisniewski,2024,2025,S,S,North Dakota State,Texas Tech,56.5,56.5,,107.0,,
 131734,Ben Gulbranson,2024,2025,QB,QB,Oregon State,Stanford,36.6,33.9,,,258.0,192.0
 158516,John Mateer,2024,2025,QB,QB,Washington State,Oklahoma,60.6,59.1,,,798.0,209.0
 158135,Jayden Maiava,2023,2024,QB,QB,UNLV,USC,61.3,59.4,,,858.0,316.0
@@ -1133,3 +1000,136 @@ pff_player_id,player_name,prev_season,current_season,prev_position,current_pos,p
 128402,Crew Wakley,2022,2023,S,S,Utah State,BYU,69.8,69.8,,447.0,,
 183405,CJ Heard,2024,2025,S,S,Florida Atlantic,Vanderbilt,51.6,51.6,654.0,115.0,,
 148341,Caleb Curtain,2024,2025,S,S,Elon,Charlotte,50.3,50.3,754.0,122.0,,
+149182,C.J. Ogbonna,2022,2023,QB,QB,Southeast Missouri State,Buffalo,52.7,44.4,,,81.0,130.0
+169984,Darian Mensah,2024,2025,QB,QB,Tulane,Duke,73.2,73.8,,,765.0,200.0
+122938,Chandler Morris,2024,2025,QB,QB,North Texas,Virginia,55.4,54.8,,,887.0,175.0
+77655,Ben Bryant,2022,2023,QB,QB,Cincinnati,Northwestern,57.9,56.3,,,656.0,539.0
+146054,Jaylen Henderson,2022,2023,QB,QB,Fresno State,Texas A&M,72.5,81.3,,,6.0,203.0
+141259,Quali Conley,2023,2024,HB,HB,San Jose State,Arizona,73.7,78.4,,,423.0,542.0
+150195,Kylin James,2023,2024,HB,HB,Central Arkansas,UNLV,48.1,55.6,,,376.0,219.0
+123472,Noah Whittington,2021,2022,HB,HB,Western Kentucky,Oregon,50.8,53.7,,,393.0,354.0
+169178,Mel Brown,2023,2024,HB,HB,Gardner-Webb,Connecticut,38.5,44.5,,,340.0,256.0
+147376,Nate Carter,2022,2023,HB,HB,Connecticut,Michigan State,45.4,47.3,,,137.0,506.0
+139386,Jaylon Jackson,2023,2024,HB,HB,Eastern Michigan,Iowa State,35.5,37.4,,,426.0,233.0
+77800,Kobe Lewis,2021,2022,HB,HB,Central Michigan,Purdue,47.3,51.8,,,,144.0
+57490,Xazavian Valladay,2021,2022,HB,HB,Wyoming,Arizona State,50.4,54.5,,,605.0,649.0
+160110,Andrew Armstrong,2022,2023,WR,WR,East Texas A&M,Arkansas,70.6,70.8,1.0,,667.0,711.0
+160756,Kevin Coleman,2022,2023,WR,WR,Jackson State,Louisville,67.7,67.9,1.0,2.0,489.0,389.0
+104059,Da'Quan Felton,2022,2023,WR,WR,Norfolk State,Virginia Tech,50.1,49.7,,1.0,491.0,632.0
+157048,Omari Kelly,2024,2025,WR,WR,Middle Tennessee,Michigan State,48.7,48.6,1.0,,525.0,155.0
+144279,Eric Rivers,2024,2025,WR,WR,Florida International,Georgia Tech,56.7,56.8,,,614.0,124.0
+74267,Melquan Stovall,2022,2023,WR,WR,Colorado State,Arizona State,49.9,51.3,,,168.0,387.0
+100273,Tyrone Broden,2022,2023,WR,WR,Bowling Green,Arkansas,45.5,46.7,,,537.0,387.0
+124211,Ja'Mori Maclin,2023,2024,WR,WR,North Texas,Kentucky,55.8,55.7,,1.0,854.0,393.0
+145976,Eric McAlister,2023,2024,WR,WR,Boise State,TCU,57.2,57.2,,,544.0,412.0
+105723,Brett Buckman,2022,2023,WR,WR,Delaware,Connecticut,50.9,50.5,,,364.0,718.0
+163334,Justus Ross-Simmons,2023,2024,WR,WR,Colorado State,Syracuse,59.5,59.4,,,714.0,161.0
+97061,Josh Kelly,2022,2023,WR,WR,Fresno State,Washington State,63.7,65.7,,,186.0,716.0
+109517,Solomon Davis,2023,2024,WR,WR,Valparaiso,Central Michigan,49.3,48.5,,,636.0,307.0
+162635,Devan Williams,2023,2024,WR,WR,Tulsa,Houston,45.3,44.7,,,473.0,308.0
+123689,Jabre Barber,2023,2024,WR,WR,Troy,Texas A&M,57.9,58.6,1.0,1.0,537.0,444.0
+160766,Travis Hunter,2022,2023,CB,CB,Jackson State,Colorado,77.8,78.3,503.0,592.0,87.0,452.0
+121783,Caden Prieskorn,2022,2023,TE,TE,Memphis,Mississippi,53.5,56.3,,,838.0,700.0
+97181,Dayton Wade,2021,2022,WR,WR,Western Kentucky,Mississippi,52.6,54.2,,,16.0,521.0
+149236,Elijah Smoot,2022,2023,WR,WR,Tennessee-Martin,Liberty,37.3,37.4,,,598.0,258.0
+97215,Lincoln Victor,2020,2021,WR,WR,Hawaii,Washington State,54.2,54.9,,1.0,13.0,207.0
+78014,Mark Pope,2022,2023,WR,WR,Jackson State,Massachusetts,42.5,43.6,,,28.0,492.0
+78120,Randy Fields Jr.,2022,2023,WR,WR,Tennessee-Martin,Charlotte,28.0,28.0,,,185.0,108.0
+78831,Zack Dobson,2022,2023,WR,WR,Tennessee State,Middle Tennessee,59.5,59.4,,1.0,182.0,191.0
+77955,D'Marcus Adams,2021,2022,WR,WR,Florida Atlantic,Syracuse,28.0,28.0,,,34.0,135.0
+41966,Devaughn Cooper,2020,2021,WR,WR,UTEP,Syracuse,51.2,51.9,,,267.0,261.0
+61342,Ezrah Archie,2021,2022,WR,WR,Monmouth,Georgia Southern,38.9,38.9,,,156.0,167.0
+102929,Kaylon Geiger,2020,2021,WR,WR,Troy,Texas Tech,65.3,68.8,,,522.0,616.0
+97867,Broc Thompson,2020,2021,WR,WR,Marshall,Purdue,49.8,52.0,,,157.0,416.0
+133220,Robert Ferrel,2021,2022,WR,WR,Incarnate Word,Washington State,60.7,60.7,,,643.0,446.0
+149832,Javin Whatley,2024,2025,WR,WR,Chattanooga,Arizona,63.2,63.2,,,701.0,118.0
+192936,Matthew Henry,2024,2025,WR,WR,Western Illinois,Western Kentucky,60.1,60.1,,,687.0,132.0
+123276,Sincere Brown,2024,2025,WR,WR,Campbell,Colorado,50.2,50.2,,,713.0,105.0
+177032,Gavin Harris,2023,2024,TE,TE,Howard,Central Michigan,54.2,56.5,,,446.0,431.0
+141520,Jett Carpenter,2024,2025,TE,TE,Eastern Washington,Nevada,61.3,61.3,1.0,,485.0,128.0
+156914,Justin Holmes,2024,2025,TE,TE,Marshall,Pittsburgh,39.5,41.4,,,175.0,112.0
+102499,Chris Carter,2022,2023,TE,TE,Howard,Northern Illinois,51.4,51.4,,,303.0,298.0
+60955,Brian Polendey,2021,2022,TE,TE,Colorado State,West Virginia,19.8,20.2,,,159.0,436.0
+52207,Jaeger Bull,2021,2022,TE,TE,Rice,Wake Forest,39.8,40.4,,,356.0,228.0
+82518,Logan Kendall,2021,2022,TE,TE,Idaho,Utah,42.3,44.2,40.0,,281.0,396.0
+59944,Jacob Brammer,2021,2022,T,T,North Texas,Vanderbilt,59.3,59.3,,,1043.0,718.0
+77518,Marques Cox,2022,2023,T,T,Northern Illinois,Kentucky,66.4,66.4,,,198.0,716.0
+157867,Malachi Carney,2024,2025,T,T,South Alabama,Georgia Tech,42.4,42.4,,,855.0,156.0
+173280,Melvin Siani,2024,2025,T,T,Temple,Wake Forest,60.4,60.4,,,600.0,187.0
+165008,Rahtrel Perry,2024,2025,T,T,Central Connecticut State,Maryland,83.1,83.1,,,902.0,166.0
+102273,Pat McMurtrie,2023,2024,T,T,Holy Cross,James Madison,59.2,59.2,,,554.0,769.0
+64284,Jack Badovinac,2020,2021,G,G,Colgate,Illinois,66.6,66.6,,,135.0,582.0
+77352,Avery Jones,2022,2023,C,C,East Carolina,Auburn,62.7,62.7,,,852.0,402.0
+87427,Kyle Hergel,2022,2023,G,G,Texas State,Boston College,81.4,81.4,,,850.0,928.0
+97646,Bula Schmidt,2022,2023,C,C,Fresno State,UCF,56.2,56.2,,,946.0,504.0
+98056,Mike Ciaffoni,2021,2022,G,G,Colorado State,Rutgers,50.7,50.7,60.0,,335.0,302.0
+109272,Ben Johnson,2021,2022,G,G,Marist,East Carolina,62.7,62.7,,,555.0,105.0
+156763,Zarian McGill,2024,2025,C,C,Louisiana Tech,Colorado,62.8,62.8,,,429.0,180.0
+150349,Jacob Bayer,2022,2023,C,C,Lamar,Arkansas State,70.8,70.8,,,762.0,757.0
+121928,Branson Hickman,2023,2024,C,C,SMU,Oklahoma,63.0,63.0,,,952.0,201.0
+129405,Reid Williams,2024,2025,C,C,Chattanooga,UNLV,70.0,70.0,,,781.0,190.0
+144189,Bernard Gooden,2024,2025,DI,DI,USF,LSU,51.8,51.8,594.0,117.0,,
+130507,CJ West,2023,2024,DI,DI,Kent State,Indiana,59.2,59.2,468.0,420.0,,
+172339,Terry Webb,2024,2025,DI,DI,Texas State,SMU,45.6,45.6,415.0,137.0,,
+176681,Khalil Laufau,2024,2025,DI,DI,Washington State,Houston,36.8,36.8,371.0,150.0,,
+100722,De'Braylon Carroll,2023,2024,DI,DI,Rice,Texas Tech,56.8,56.8,680.0,364.0,,
+167022,Cameron Roetherford,2023,2024,DI,DI,Arkansas-Pine Bluff,Cincinnati,48.8,48.8,325.0,133.0,3.0,
+146014,Grady Kelly,2023,2024,DI,DI,Colorado State,Florida State,50.8,50.8,536.0,204.0,,
+156932,Sterling Webb,2023,2024,DI,DI,New Mexico State,Missouri,33.2,33.2,482.0,283.0,,
+98144,Keivie Rose,2022,2023,DI,DI,Louisiana Tech,Arkansas,36.1,36.1,647.0,301.0,,
+128381,James Hansen,2023,2024,DI,DI,Nevada,Texas Tech,22.3,22.3,386.0,143.0,,
+145384,Chazz Wallace,2022,2023,DI,DI,Old Dominion,Colorado,32.4,32.4,358.0,253.0,,
+101975,Kyler Baugh,2021,2022,DI,DI,Houston Baptist,Minnesota,30.4,30.4,638.0,449.0,3.0,
+145655,Cashius Howell,2023,2024,ED,ED,Bowling Green,Texas A&M,59.4,59.4,532.0,485.0,,
+151205,Tyrin Bradley,2022,2023,ED,ED,Abilene Christian,West Virginia,44.0,44.0,622.0,327.0,,
+145527,Trey Moore,2023,2024,ED,ED,UTSA,Texas,69.3,69.3,502.0,674.0,,
+98162,Elijah Alston,2023,2024,ED,ED,Marshall,Miami (FL),44.4,44.4,475.0,272.0,,
+100324,Blaine Spires,2024,2025,ED,ED,Utah State,Pittsburgh,42.9,42.9,178.0,127.0,,
+144409,Keith Cooper Jr.,2023,2024,ED,ED,Tulane,Houston,39.8,39.8,636.0,627.0,,1.0
+150230,Syrus Webster,2023,2024,ED,ED,Utah Tech,Washington State,36.2,36.2,709.0,512.0,1.0,
+101963,Kamari Stephens,2022,2023,ED,ED,Florida A&M,Jacksonville State,39.8,39.8,507.0,264.0,,
+128136,Andy Nwaoko,2023,2024,ED,ED,Stony Brook,Middle Tennessee,27.2,27.2,245.0,105.0,,
+121837,Jacob Busic,2023,2024,ED,ED,Navy,UCLA,28.7,28.7,135.0,276.0,,
+77164,Anthony Goodlow,2022,2023,ED,ED,Tulsa,Oklahoma State,48.8,48.8,659.0,568.0,,
+101903,Chance Main,2021,2022,ED,ED,Incarnate Word,Colorado,44.3,44.3,,362.0,,
+82299,Davoan Hawkins,2022,2023,ED,ED,Tennessee State,West Virginia,21.8,21.8,496.0,152.0,,
+79454,Josh Carr Jr.,2020,2021,ED,ED,Southeastern Louisiana,Southern Miss,51.0,51.0,,553.0,,
+56862,Arnold Ebiketie,2020,2021,ED,ED,Temple,Penn State,66.7,66.7,340.0,741.0,,
+101226,Jacoby Windmon,2021,2022,LB,LB,UNLV,Michigan State,50.2,50.2,795.0,456.0,,1.0
+57759,Jerry Roberts,2020,2021,LB,LB,Bowling Green,Arizona,33.8,33.8,285.0,309.0,,
+164530,Melkart Abou-Jaoude,2024,2025,ED,ED,Delaware,North Carolina,50.8,50.8,402.0,125.0,,
+145978,Andrew Simpson,2024,2025,LB,LB,Boise State,North Carolina,65.0,65.0,506.0,165.0,,
+147861,Jack Kelly,2023,2024,LB,LB,Weber State,BYU,58.5,58.5,631.0,728.0,3.0,1.0
+143026,Owen Goss,2023,2024,S,S,Colgate,Arizona,38.8,38.8,694.0,583.0,1.0,
+104514,Jason Johnson,2021,2022,LB,LB,Eastern Illinois,UCF,29.8,29.8,698.0,867.0,,
+105386,Tyler Jackson,2022,2023,LB,LB,Lamar,Northern Illinois,27.0,27.0,654.0,405.0,,
+164824,Gary Bryant III,2024,2025,LB,LB,South Dakota,Syracuse,38.1,38.1,785.0,141.0,,
+150093,Micah Davey,2024,2025,LB,LB,McNeese State,UTEP,43.9,43.9,480.0,146.0,,
+55046,Devonni Reed,2021,2022,S,S,Central Michigan,South Carolina,62.6,62.4,726.0,373.0,,
+77192,Jireh Wilson,2022,2023,S,S,East Carolina,UCF,61.4,61.1,540.0,485.0,1.0,
+97141,Antavious Lane,2022,2023,S,S,Georgia State,North Carolina,58.6,58.2,808.0,409.0,,
+97703,M.J. Griffin,2021,2022,S,S,Temple,Louisville,60.8,60.2,634.0,504.0,,
+101768,Irshaad Davis,2022,2023,S,S,Alabama State,Troy,78.4,78.4,641.0,602.0,1.0,
+121669,Isaiah Cash,2023,2024,S,S,Houston Christian,Sam Houston State,39.7,39.7,574.0,881.0,,
+144393,Jalen McMurray,2023,2024,CB,CB,Temple,Tennessee,54.4,54.4,742.0,264.0,,
+145611,Darrian Lewis,2024,2025,S,S,Akron,West Virginia,55.7,55.5,768.0,145.0,1.0,
+156406,Phillip Dunnam,2024,2025,S,S,Florida Atlantic,UCF,61.4,61.4,590.0,113.0,,
+157942,Devin Grant,2023,2024,S,S,Buffalo,Syracuse,58.7,58.4,666.0,622.0,,
+174758,Devin Dye,2023,2024,S,S,Utah State,Kansas,65.3,65.3,627.0,163.0,1.0,
+150058,Brian Mayes,2022,2023,CB,CB,Incarnate Word,UAB,54.4,54.4,816.0,597.0,,
+76604,Capone Blue,2023,2024,CB,CB,Kent State,Wake Forest,44.8,44.8,609.0,247.0,,
+97539,Quincy Riley,2021,2022,CB,CB,Middle Tennessee,Louisville,68.4,68.4,514.0,437.0,,
+101788,Jonathan Jones,2022,2023,CB,CB,Campbell,East Carolina,68.7,68.7,592.0,187.0,,
+103567,Willie Roberts,2021,2022,CB,CB,Stephen F. Austin,Louisiana Tech,66.0,66.0,567.0,686.0,,
+106697,Dom Jones,2022,2023,CB,CB,North Dakota State,Colorado State,61.1,61.1,495.0,536.0,,
+122146,Fred Davis II,2024,2025,CB,CB,Jacksonville State,Northwestern,65.0,65.1,484.0,164.0,,
+146043,Julian Neal,2024,2025,CB,CB,Fresno State,Arkansas,67.0,67.0,548.0,160.0,,
+147394,Malcolm Bell,2024,2025,CB,CB,Connecticut,Michigan State,55.6,55.6,385.0,153.0,,
+150703,Kolbey Taylor,2023,2024,CB,CB,Wyoming,Vanderbilt,38.1,38.1,536.0,373.0,,
+156676,Matthew McDoom,2024,2025,CB,CB,Coastal Carolina,Cincinnati,63.1,63.1,547.0,149.0,,
+175720,Michael Coats Jr.,2024,2025,CB,CB,Nevada,West Virginia,64.7,64.7,850.0,135.0,,
+165156,Boogie Trotter,2024,2025,CB,CB,Tennessee State,Marshall,73.6,73.6,867.0,128.0,,
+159892,Jason Chambers,2023,2024,CB,CB,North Carolina Central,Appalachian State,58.9,58.9,670.0,506.0,,
+159729,Roman Pearson,2024,2025,CB,CB,Bucknell,Ball State,57.6,57.6,679.0,139.0,,
+83197,Dustin Johnson,2023,2024,S,S,Northern Colorado,Ohio,51.3,51.3,633.0,764.0,1.0,
+150423,Pierre Royster,2024,2025,S,S,St. Francis (PA),UAB,37.6,37.6,540.0,164.0,,
