@@ -15,7 +15,7 @@ _
 
 
 # Results 
-TBD
+Out of over a dozen different positions in college football, the clear most successful positions when it comes to transfering are wide receivers, linebackers, edge defenders and defensive backs. For positions like Edge Defenders, there is a clear stat that we can target to find the best transfers, that being "pass_rush". For the position of Linebacker, there are quite a few stats that we can look at that correlate with success, including "pass_rush", "run_defense", "run_defense_snaps", and discipline among many more. Using both Random Forest and LassoCV models to gauge the impact of various stats, I am able to cover more ground and compare and contrast the results of the models to get a more holistic sense of which stats are the most important. Ultimately, I can use this information to hone in on the best players to target in the transfer window in college football in order to improve the team in future years. 
 
 # Installation
 aiohttp
@@ -24,15 +24,10 @@ pandas
 duckdb
 python-dotenv
 
-
-# Running analysis 
-I am currently working to clean up the data and find specific positions that have enough data to make generalizations about. I will then deploy my models of choice and create visuals to depict the features most tied to player success
-
-# Difficulties/Issues
-No real issues or difficulties, but I have changed the scope of my project. I have expanded it because only focusing on the discipline stat seemed too limiting when I was considering how to develop my models.
+# How to Run
 
 From `src/` directory run:
 
 `python main`
 
-Results will appear in `results/` folder. All obtained will be stored in `data/`
+or go through results.ipynb notebook and run each function manually. Results (model charts) will be generated from the content in analysis.py, but they have been replicated in the results/visuals folder for easy viewing. Keep in mind that join_ids_with_api takes a while to run. You need a PFF API key for this project, which you need to make an account for.
