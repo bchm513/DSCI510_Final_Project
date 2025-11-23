@@ -1,32 +1,26 @@
 pff_player_id,player_name,prev_season,current_season,prev_position,current_pos,prev_school,current_school,wick_score,capped_wick_score,prev_def_snaps,current_def_snaps,prev_off_snaps,current_off_snaps
-122248,Jalen McLeod,2022,2023,ED,ED,Appalachian State,Auburn,68.4,68.4,382.0,524.0,,1.0
-121664,Michael Batton,2023,2024,LB,LB,Louisiana-Monroe,Houston,35.8,35.8,444.0,671.0,,1.0
-143814,Shawn Asbury II,2023,2024,S,S,Old Dominion,Indiana,70.8,70.5,843.0,723.0,1.0,2.0
-160445,Devon Marshall,2023,2024,CB,CB,Villanova,North Carolina State,61.5,61.5,669.0,543.0,,2.0
-66694,John Ridgeway,2020,2021,DI,DI,Illinois State,Arkansas,46.2,46.2,181.0,436.0,,2.0
-145382,Wayne Matthews III,2023,2024,LB,LB,Old Dominion,Michigan State,51.5,51.5,936.0,243.0,1.0,1.0
-156725,Aiden Fisher,2023,2024,LB,LB,James Madison,Indiana,50.9,50.9,809.0,744.0,,2.0
-148507,Jackson Ambush,2022,2023,LB,LB,Albany,Florida Atlantic,33.8,33.8,667.0,677.0,1.0,1.0
-108177,Joe Andreessen,2022,2023,LB,LB,Bryant University,Buffalo,66.8,66.8,762.0,608.0,,3.0
-42679,Isaiah Graham-Mobley,2020,2021,LB,LB,Temple,Boston College,44.6,44.6,106.0,438.0,,1.0
 61500,Daiyan Henley,2021,2022,LB,LB,Nevada,Washington State,39.0,38.3,676.0,667.0,,1.0
 146160,Zyrus Fiaseu,2023,2024,LB,LB,San Diego State,Arizona State,33.1,33.1,627.0,353.0,1.0,2.0
 101343,Ajani Carter,2023,2024,CB,CB,Utah State,Houston,45.5,45.6,,360.0,,1.0
 75719,Khoury Bethley,2021,2022,S,S,Hawaii,Arizona State,66.6,66.3,1037.0,682.0,,1.0
 121344,Kory Chapman,2023,2024,S,S,Austin Peay,UTEP,67.3,67.3,773.0,615.0,,1.0
 173463,TJ Crandall,2023,2024,CB,CB,Colorado State,West Virginia,62.7,62.7,303.0,122.0,,1.0
-82511,Jackson Cravens,2022,2023,DI,DI,Boise State,BYU,41.0,41.0,313.0,474.0,10.0,1.0
-91790,Joe Golden,2021,2022,ED,ED,Northern Colorado,Oregon State,29.7,29.7,571.0,127.0,9.0,1.0
-88501,Nate Norris,2022,2023,LB,LB,Lehigh,Western Michigan,38.0,38.0,682.0,387.0,,1.0
-101146,Cam Lampkin,2021,2022,CB,CB,Utah State,Washington State,59.3,59.3,705.0,110.0,,1.0
-142101,Arsheen Jiles,2023,2024,CB,CB,Sacred Heart,Massachusetts,51.3,51.3,574.0,470.0,,1.0
-142508,Victor Nelson,2022,2023,S,S,LIU,Boston College,62.6,62.6,767.0,138.0,1.0,1.0
-99728,Demetrius Knight Jr.,2023,2024,LB,LB,Charlotte,South Carolina,38.5,38.5,619.0,572.0,,1.0
-148812,Macklin Ayers,2023,2024,LB,LB,Dartmouth,Massachusetts,23.5,23.5,665.0,175.0,,1.0
-60658,Kenderick Duncan,2020,2021,S,S,Georgia Southern,Louisville,72.7,72.4,362.0,800.0,,1.0
+122248,Jalen McLeod,2022,2023,ED,ED,Appalachian State,Auburn,68.4,68.4,382.0,524.0,,1.0
+121664,Michael Batton,2023,2024,LB,LB,Louisiana-Monroe,Houston,35.8,35.8,444.0,671.0,,1.0
+143814,Shawn Asbury II,2023,2024,S,S,Old Dominion,Indiana,70.8,70.5,843.0,723.0,1.0,2.0
+160445,Devon Marshall,2023,2024,CB,CB,Villanova,North Carolina State,61.5,61.5,669.0,543.0,,2.0
 148771,Malin White,2023,2024,ED,ED,Cornell,Buffalo,45.9,45.9,285.0,273.0,,5.0
 122396,Stephen Dix Jr.,2023,2024,LB,LB,Marshall,Arkansas,27.4,27.4,538.0,548.0,,1.0
 157707,Xavier Smith,2023,2024,S,S,Austin Peay,UTEP,56.7,56.7,594.0,624.0,,1.0
+99728,Demetrius Knight Jr.,2023,2024,LB,LB,Charlotte,South Carolina,38.5,38.5,619.0,572.0,,1.0
+148812,Macklin Ayers,2023,2024,LB,LB,Dartmouth,Massachusetts,23.5,23.5,665.0,175.0,,1.0
+60658,Kenderick Duncan,2020,2021,S,S,Georgia Southern,Louisville,72.7,72.4,362.0,800.0,,1.0
+66694,John Ridgeway,2020,2021,DI,DI,Illinois State,Arkansas,46.2,46.2,181.0,436.0,,2.0
+145382,Wayne Matthews III,2023,2024,LB,LB,Old Dominion,Michigan State,51.5,51.5,936.0,243.0,1.0,1.0
+156725,Aiden Fisher,2023,2024,LB,LB,James Madison,Indiana,50.9,50.9,809.0,744.0,,2.0
+148507,Jackson Ambush,2022,2023,LB,LB,Albany,Florida Atlantic,33.8,33.8,667.0,677.0,1.0,1.0
+108177,Joe Andreessen,2022,2023,LB,LB,Bryant University,Buffalo,66.8,66.8,762.0,608.0,,3.0
+42679,Isaiah Graham-Mobley,2020,2021,LB,LB,Temple,Boston College,44.6,44.6,106.0,438.0,,1.0
 142181,Chubba Maae,2023,2024,DI,DI,UC Davis,Arizona,34.8,34.8,214.0,139.0,1.0,1.0
 101993,James Carpenter,2023,2024,DI,DI,James Madison,Indiana,65.7,65.7,803.0,573.0,,2.0
 101172,AJ Vongphachanh,2022,2023,LB,LB,Utah State,BYU,36.0,36.0,901.0,806.0,4.0,1.0
@@ -39,3 +33,9 @@ pff_player_id,player_name,prev_season,current_season,prev_position,current_pos,p
 144409,Keith Cooper Jr.,2023,2024,ED,ED,Tulane,Houston,39.8,39.8,636.0,627.0,,1.0
 101226,Jacoby Windmon,2021,2022,LB,LB,UNLV,Michigan State,50.2,50.2,795.0,456.0,,1.0
 147861,Jack Kelly,2023,2024,LB,LB,Weber State,BYU,58.5,58.5,631.0,728.0,3.0,1.0
+82511,Jackson Cravens,2022,2023,DI,DI,Boise State,BYU,41.0,41.0,313.0,474.0,10.0,1.0
+91790,Joe Golden,2021,2022,ED,ED,Northern Colorado,Oregon State,29.7,29.7,571.0,127.0,9.0,1.0
+88501,Nate Norris,2022,2023,LB,LB,Lehigh,Western Michigan,38.0,38.0,682.0,387.0,,1.0
+101146,Cam Lampkin,2021,2022,CB,CB,Utah State,Washington State,59.3,59.3,705.0,110.0,,1.0
+142101,Arsheen Jiles,2023,2024,CB,CB,Sacred Heart,Massachusetts,51.3,51.3,574.0,470.0,,1.0
+142508,Victor Nelson,2022,2023,S,S,LIU,Boston College,62.6,62.6,767.0,138.0,1.0,1.0
