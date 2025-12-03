@@ -1,3 +1,4 @@
+##### This is the file where I go through the wick score data to filter out for the ids I need given the success of transfer players
 
 def retrieve_wicks():
     import pandas as pd

@@ -1,3 +1,6 @@
+##### This is the file where I create all of the results/visuals for my analysis. 
+# I have already considered using other models including logistic regressions and different forms of linear regressions, but have settled on a LassoCV and RandomForest model for my "business" needs
+
 def get_columns():
     #### get columns for data analysis
     import pandas as pd
@@ -84,6 +87,7 @@ def get_agg_dict():
     # df_agg.to_csv("agged_season_stats.csv", index=False)
     wick_combine.to_csv("clean_data/agged_season_stats.csv", index=False)
 
+# broad analysis considering all positions
 def total_analysis():
     import pandas as pd
 
@@ -176,6 +180,7 @@ def total_analysis():
     plt.tight_layout()
     plt.show()
 
+# analysis for db position
 def db_analysis():
     import pandas as pd
 
@@ -281,6 +286,7 @@ def db_analysis():
     plt.tight_layout()
     plt.show()
 
+# analysis for ed position
 def ed_analysis():
     import pandas as pd
 
@@ -384,6 +390,7 @@ def ed_analysis():
     plt.tight_layout()
     plt.show()
 
+# analysis for lb position
 def lb_analysis():
     import pandas as pd
 
@@ -488,6 +495,7 @@ def lb_analysis():
     plt.tight_layout()
     plt.show()
 
+# analysis for wr position
 def wr_analysis():
     import pandas as pd
 
