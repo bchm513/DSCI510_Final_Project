@@ -4,6 +4,7 @@ from analysis import *
 import pandas as pd
 import asyncio
 
+import config
 import os
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -33,7 +34,7 @@ final_position_selection(succeeded_expanded_df)
 ######### DATA RETRIEVAL #########
 # this section is for using the API to get the data and then filtering for the correct players from there
 
-asyncio.run(get_api_main())
+asyncio.run(get_api_main(config.BASE_URL))
 
 succeeded_ids_df = pd.read_csv("intermediate_content/succeeded_ids.csv")
 

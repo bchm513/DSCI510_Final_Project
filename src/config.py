@@ -1,0 +1,1 @@
+BASE_URL = "https://api.profootballfocus.com/v1/grades/ncaa/{season}/season_grade"

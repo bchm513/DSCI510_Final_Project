@@ -53,8 +53,7 @@ async def fetch_all(key, urls, max_concurrency=20):
     print(f"Finished {key}")
     return results
 
-async def get_api_main():
-    BASE_URL = "https://api.profootballfocus.com/v1/grades/ncaa/{season}/season_grade"
+async def get_api_main(BASE_URL):
     seasons = [2019, 2020, 2021, 2022, 2023, 2024]
     urls = [BASE_URL.format(season=season) for season in seasons]
 
