@@ -19,7 +19,7 @@ _
 
 The multi-model approach—combining Random Forest and LassoCV—allowed for a more comprehensive evaluation of feature importance by capturing both the non-linear relationships (Random Forest) and the sparse, interpretable patterns (LassoCV) in the data. This comparative methodology provides a more holistic understanding of which statistics truly drive transfer success across different positions.
 
-The variation in predictive factors between positions (single metric for Edge Defenders vs. multiple metrics for Linebackers) suggests that transfer evaluation strategies should be position-specific rather than applying a one-size-fits-all approach.
+For each of the models, I focused on which features (football stats) predicted the metric of wick score, a holistic "all in one" type of statistic that measures the overall success of a player. In this analysis I was able to hone in on a few significant factors for each position. The variation in predictive factors between positions (single metric for Edge Defenders vs. multiple metrics for Linebackers) suggests that transfer evaluation strategies should be position-specific rather than applying a one-size-fits-all approach.
 
 These findings can be leveraged to develop targeted recruitment strategies during the transfer window, enabling teams to identify high-potential transfer candidates based on quantifiable performance metrics aligned with each position's success profile.
 
