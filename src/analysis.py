@@ -29,6 +29,7 @@ def get_agg_dict():
     import duckdb
     import pandas as pd
     import json
+    import os
 
     with open("../data/season_grades_filtered.json", "r") as fin:
         data = json.load(fin)
@@ -83,7 +84,7 @@ def get_agg_dict():
     ORDER BY df_agg.position
     """).to_df()
 
-
+    os.makedirs("clean_data", exist_ok=True)
     # df_agg.to_csv("agged_season_stats.csv", index=False)
     wick_combine.to_csv("clean_data/agged_season_stats.csv", index=False)
 
@@ -184,7 +185,8 @@ def total_analysis():
 def db_analysis():
     import pandas as pd
 
-    dbs = pd.read_csv('clean_data/dbs.csv')
+    agg_df = pd.read_csv('clean_data/agged_season_stats.csv')
+    dbs = agg_df[agg_df['position'] == 'CB']
 
     from sklearn.model_selection import train_test_split
     from sklearn.impute import SimpleImputer
@@ -290,7 +292,8 @@ def db_analysis():
 def ed_analysis():
     import pandas as pd
 
-    eds = pd.read_csv('clean_data/eds.csv')
+    agg_df = pd.read_csv('clean_data/agged_season_stats.csv')
+    eds = agg_df[(agg_df['position'] == 'ED') | (agg_df['position'] == 'DI')]
 
     from sklearn.model_selection import train_test_split
     from sklearn.impute import SimpleImputer
@@ -394,7 +397,8 @@ def ed_analysis():
 def lb_analysis():
     import pandas as pd
 
-    lbs = pd.read_csv('clean_data/lbs.csv')
+    agg_df = pd.read_csv('clean_data/agged_season_stats.csv')
+    lbs = agg_df[agg_df['position'] == 'LB']
 
     from sklearn.model_selection import train_test_split
     from sklearn.impute import SimpleImputer
@@ -499,7 +503,8 @@ def lb_analysis():
 def wr_analysis():
     import pandas as pd
 
-    wrs = pd.read_csv('clean_data/wrs.csv')
+    agg_df = pd.read_csv('clean_data/agged_season_stats.csv')
+    wrs = agg_df[agg_df['position'] == 'WR']
 
     from sklearn.model_selection import train_test_split
     from sklearn.impute import SimpleImputer

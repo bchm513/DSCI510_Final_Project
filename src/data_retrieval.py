@@ -59,31 +59,58 @@ async def get_api_main(BASE_URL):
 
     results = await fetch_all("season_grades", urls)
 
+    os.makedirs("../data", exist_ok=True)
     with open("../data/season_grades.json", "w") as f:
         json.dump(results, f, indent=2)
 
 
-def join_ids_with_api(succeeded_ids_df):
-    import json
+def join_ids_with_api(succeeded_ids_df, file_id):
+    # import json
     
-    with open("../data/season_grades.json", "r") as fin:
-        data = json.load(fin)
+    ##### this was the original way I joined the data after retrieving it from the API
+    ##### it takes a very long time so I am commenting it out, and for simplicity's sake I am only going to pull it from my google drive as I have been for other data
+    ##### UNCOMMENT SECTION BELOW FOR ACTUAL JOINING
 
-    with open("../data/season_grades_filtered.json", "a") as f:
-        f.write("[\n")
-        for obj in data:
-            # Loop through each player in the season
-            for player in obj["season_grade"]:      
-                for i, v in succeeded_ids_df.iterrows():
-                    iter_pff_player_id = v["pff_player_id"]
-                    iter_prev_season = v["prev_season"]
+    # with open("../data/season_grades.json", "r") as fin:
+    #     data = json.load(fin)
 
-                    if player["player_id"] == iter_pff_player_id and player["season"] == iter_prev_season:
-                        json.dump(player, f, indent=2)
-                        f.write(",")
-                        print(player)
+    # with open("../data/season_grades_filtered.json", "a") as f:
+    #     f.write("[\n")
+    #     for obj in data:
+    #         # Loop through each player in the season
+    #         for player in obj["season_grade"]:      
+    #             for i, v in succeeded_ids_df.iterrows():
+    #                 iter_pff_player_id = v["pff_player_id"]
+    #                 iter_prev_season = v["prev_season"]
 
+    #                 if player["player_id"] == iter_pff_player_id and player["season"] == iter_prev_season:
+    #                     json.dump(player, f, indent=2)
+    #                     f.write(",")
+    #                     print(player)
                             
-                # print(player)
+    #           # print(player)
+
+    ##### this is the simplified version where I just pull the already joined data from my google drive
+    ##### COMMENT THIS SECTION OUT FOR ACTUAL JOINING
+
+    import requests
+    import json
+    import os
+
+    url = f"https://drive.google.com/uc?export=download&id={file_id}"
+
+    # Create directory if needed
+    os.makedirs("../data", exist_ok=True)
+
+    # Download the file
+    response = requests.get(url)
+
+    # Save to file
+    with open("../data/season_grades_filtered.json", "wb") as f:
+        f.write(response.content)
+
+    # Or load directly as JSON
+    data = json.loads(response.content)
+    print(data)
             
             

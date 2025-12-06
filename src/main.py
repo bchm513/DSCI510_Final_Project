@@ -14,7 +14,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 # this section is for initial analysis and investigation, this does not use the actual data I will be using to create my models
 
 # get wicks scores data for the transfers
-transfer_player_snap_counts = retrieve_wicks()
+transfer_player_snap_counts = retrieve_wicks(config.SNAP_COUNTS_GID, config.SNAP_COUNTS_SHEETID, config.WICKS_GID, config.WICKS_SHEETID)
 # transfer_player_snap_counts
 
 # get players who moved up in division
@@ -36,9 +36,10 @@ final_position_selection(succeeded_expanded_df)
 
 asyncio.run(get_api_main(config.BASE_URL))
 
+# just created
 succeeded_ids_df = pd.read_csv("intermediate_content/succeeded_ids.csv")
 
-# join_ids_with_api(succeeded_ids_df)
+join_ids_with_api(succeeded_ids_df, config.JOINED_FILE_ID)
 
 
 

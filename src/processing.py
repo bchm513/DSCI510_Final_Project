@@ -1,18 +1,38 @@
 ##### This is the file where I go through the wick score data to filter out for the ids I need given the success of transfer players
 
-def retrieve_wicks():
+def retrieve_wicks(snap_gid, snap_sheet_id, wick_gid, wick_sheet_id):
     import pandas as pd
+    import requests
+    import os
 
     ##### This is the data not gotten by the API, 
     ##### I will use this to get a sense of what to look for once I get API data
 
-    team_defense_snaps = pd.read_csv('intermediate_content/team_defense_snaps.csv')  
-    team_offense_snaps = pd.read_csv('intermediate_content/team_offense_snaps.csv')
-    transfer_player_career_wicks = pd.read_csv('intermediate_content/transfer_player_career_wicks.csv')
-    transfer_player_snap_counts = pd.read_csv('intermediate_content/transfer_player_snap_counts.csv')
+    ##### This was my old version of collecting the data straight from intermediate content
+    # team_defense_snaps = pd.read_csv('intermediate_content/team_defense_snaps.csv')  
+    # team_offense_snaps = pd.read_csv('intermediate_content/team_offense_snaps.csv')
+    # transfer_player_career_wicks = pd.read_csv('intermediate_content/transfer_player_career_wicks.csv')
+    # transfer_player_snap_counts = pd.read_csv('intermediate_content/transfer_player_snap_counts.csv')
     # transfer_player_career_wicks
 
-    return(transfer_player_snap_counts)
+    # get the wicks data information from google drive and send it directly to intermediate content folder
+    csv_url = f"https://docs.google.com/spreadsheets/d/{wick_sheet_id}/export?format=csv&gid={wick_gid}"
+    response = requests.get(csv_url)
+
+    # Create directory if it doesn't exist
+    os.makedirs("intermediate_content", exist_ok=True)
+    
+    # Write directly to file
+    with open("intermediate_content/transfer_player_career_wicks.csv", "wb") as f:
+        f.write(response.content)
+
+    # Create the CSV export URL
+    csv_url = f"https://docs.google.com/spreadsheets/d/{snap_sheet_id}/export?format=csv&gid={snap_gid}"
+
+    # Read directly into pandas from sheets
+    df = pd.read_csv(csv_url)
+
+    return(df)
 
 def make_moved_up_df(transfer_player_snap_counts):
 
@@ -42,6 +62,7 @@ def make_moved_up_df(transfer_player_snap_counts):
 def filter_for_successful():
     import duckdb
     import pandas as pd
+    import requests
 
     #### Initial query to get a sense of successful positions
     query_1 = duckdb.query("""
@@ -53,7 +74,6 @@ def filter_for_successful():
     """).to_df()
 
     # query_1
-
 
     #### given successful positions, use create df with all other important information
     succeeded_expanded_df_raw = duckdb.query("""
