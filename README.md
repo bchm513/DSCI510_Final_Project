@@ -15,9 +15,21 @@ _
 | 6     | Wick Scores Data |           | drive  |                | CSV   | Yes, python | 20000+ csv rows                   |
 | 7     | Snap Count Data |           | drive  |                | CSV   | Yes, python | 15000+ csv rows                   |
 
+# Analysis
 
-# Results 
-Out of over a dozen different positions in college football, the clear most successful positions when it comes to transfering are wide receivers, linebackers, edge defenders and defensive backs. For positions like Edge Defenders, there is a clear stat that we can target to find the best transfers, that being "pass_rush". For the position of Linebacker, there are quite a few stats that we can look at that correlate with success, including "pass_rush", "run_defense", "run_defense_snaps", and discipline among many more. Using both Random Forest and LassoCV models to gauge the impact of various stats, I am able to cover more ground and compare and contrast the results of the models to get a more holistic sense of which stats are the most important. Ultimately, I can use this information to hone in on the best players to target in the transfer window in college football in order to improve the team in future years. 
+The multi-model approach—combining Random Forest and LassoCV—allowed for a more comprehensive evaluation of feature importance by capturing both the non-linear relationships (Random Forest) and the sparse, interpretable patterns (LassoCV) in the data. This comparative methodology provides a more holistic understanding of which statistics truly drive transfer success across different positions.
+
+The variation in predictive factors between positions (single metric for Edge Defenders vs. multiple metrics for Linebackers) suggests that transfer evaluation strategies should be position-specific rather than applying a one-size-fits-all approach.
+
+These findings can be leveraged to develop targeted recruitment strategies during the transfer window, enabling teams to identify high-potential transfer candidates based on quantifiable performance metrics aligned with each position's success profile.
+
+# Results
+
+Out of over a dozen different positions in college football, the analysis identified four positions with the highest transfer success rates: wide receivers, linebackers, edge defenders, and defensive backs. 
+
+For Edge Defenders, a single key performance indicator emerged as the primary predictor of transfer success: pass rush ability. In contrast, Linebackers showed a more complex profile, with multiple statistics correlating with successful transfers, including pass rush, run defense, run defense snaps, and discipline metrics.
+
+Both Random Forest and LassoCV models were employed to evaluate the statistical impact across positions, with each model highlighting different aspects of player performance and providing complementary insights into which metrics best predict transfer success. The Random Forest model was especially valuable in that it was able to detail exact thresholds of stats we should be targetting within the indicated position groups.
 
 # Installation
 
