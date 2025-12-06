@@ -25,6 +25,22 @@ Install the required packages:
 ```bash
 pip install pandas duckdb scikit-learn matplotlib requests aiohttp tenacity python-dotenv
 ```
+If using a requirements.txt file:
+```txt
+pandas
+duckdb
+scikit-learn
+matplotlib
+requests
+aiohttp
+tenacity
+python-dotenv
+```
+
+Then install with:
+```bash
+pip install -r requirements.txt
+```
 
 # How to Run
 
