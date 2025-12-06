@@ -139,16 +139,16 @@ def total_analysis():
     # print("\nTop features by Random Forest:")
     # print(feature_importance_rf)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_rf.plot(kind='bar')
-    plt.title("Top Features by Random Forest")
-    plt.ylabel("Importance")
-    plt.xlabel("Features")
+    plt.title("Total Analysis Top Features by Random Forest", fontsize=18)
+    plt.ylabel("Importance", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
 
-    plt.figure(figsize=(20, 10))
+    plt.figure(figsize=(20, 10), dpi=300)
     # Plot the first tree in the forest
     plot_tree(
         rf.estimators_[0],
@@ -157,7 +157,7 @@ def total_analysis():
         rounded=True,
         fontsize=10
     )
-    plt.title("Random Forest - First Tree Visualization")
+    plt.title("Total Analysis Random Forest - First Tree Visualization", fontsize=18)
     plt.show()
 
     # ----------------------
@@ -171,12 +171,12 @@ def total_analysis():
     # print("Top features by LassoCV:")
     # print(feature_importance_lasso)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_lasso_abs = feature_importance_lasso.abs().sort_values(ascending=False)
     feature_importance_lasso_abs.plot(kind='bar', color='orange')
-    plt.title("Top Features by LassoCV (Absolute Coefficients)")
-    plt.ylabel("Coefficient Magnitude")
-    plt.xlabel("Features")
+    plt.title("Total Analysis Top Features by LassoCV (Absolute Coefficients)", fontsize=18)
+    plt.ylabel("Coefficient Magnitude", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
@@ -246,16 +246,16 @@ def db_analysis():
     # print("\nTop features by Random Forest:")
     # print(feature_importance_rf)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_rf.plot(kind='bar')
-    plt.title("Top Features by Random Forest")
-    plt.ylabel("Importance")
-    plt.xlabel("Features")
+    plt.title("DB Analysis Top Features by Random Forest", fontsize=18)
+    plt.ylabel("Importance", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
 
-    plt.figure(figsize=(20, 10))
+    plt.figure(figsize=(20, 10), dpi=300)
     # Plot the first tree in the forest
     plot_tree(
         rf.estimators_[0],
@@ -264,7 +264,7 @@ def db_analysis():
         rounded=True,
         fontsize=10
     )
-    plt.title("Random Forest - First Tree Visualization")
+    plt.title("DB Analysis Random Forest - First Tree Visualization", fontsize=18)
     plt.show()
 
     # ----------------------
@@ -278,12 +278,12 @@ def db_analysis():
     # print("Top features by LassoCV:")
     # print(feature_importance_lasso)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_lasso_abs = feature_importance_lasso.abs().sort_values(ascending=False)
     feature_importance_lasso_abs.plot(kind='bar', color='orange')
-    plt.title("Top Features by LassoCV (Absolute Coefficients)")
-    plt.ylabel("Coefficient Magnitude")
-    plt.xlabel("Features")
+    plt.title("DB Analysis Top Features by LassoCV (Absolute Coefficients)", fontsize=18)
+    plt.ylabel("Coefficient Magnitude", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
@@ -351,16 +351,16 @@ def ed_analysis():
     # print("\nTop features by Random Forest:")
     # print(feature_importance_rf)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_rf.plot(kind='bar')
-    plt.title("Top Features by Random Forest")
-    plt.ylabel("Importance")
-    plt.xlabel("Features")
+    plt.title("ED Analysis Top Features by Random Forest", fontsize=18)
+    plt.ylabel("Importance", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
 
-    plt.figure(figsize=(20, 10))
+    plt.figure(figsize=(20, 10), dpi=300)
     # Plot the first tree in the forest
     plot_tree(
         rf.estimators_[0],
@@ -369,7 +369,7 @@ def ed_analysis():
         rounded=True,
         fontsize=10
     )
-    plt.title("Random Forest - First Tree Visualization")
+    plt.title("ED Analysis Random Forest - First Tree Visualization", fontsize=18)
     plt.show()
 
     # ----------------------
@@ -383,12 +383,12 @@ def ed_analysis():
     # print("Top features by LassoCV:")
     # print(feature_importance_lasso)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_lasso_abs = feature_importance_lasso.abs().sort_values(ascending=False)
     feature_importance_lasso_abs.plot(kind='bar', color='orange')
-    plt.title("Top Features by LassoCV (Absolute Coefficients)")
-    plt.ylabel("Coefficient Magnitude")
-    plt.xlabel("Features")
+    plt.title("ED Analysis Top Features by LassoCV (Absolute Coefficients)", fontsize=18)
+    plt.ylabel("Coefficient Magnitude", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
@@ -457,16 +457,16 @@ def lb_analysis():
     # print("\nTop features by Random Forest:")
     # print(feature_importance_rf)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_rf.plot(kind='bar')
-    plt.title("Top Features by Random Forest")
-    plt.ylabel("Importance")
-    plt.xlabel("Features")
+    plt.title("LB Analysis Top Features by Random Forest", fontsize=18)
+    plt.ylabel("Importance", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
 
-    plt.figure(figsize=(20, 10))
+    plt.figure(figsize=(20, 10), dpi=300)
     # Plot the first tree in the forest
     plot_tree(
         rf.estimators_[0],
@@ -475,7 +475,7 @@ def lb_analysis():
         rounded=True,
         fontsize=10
     )
-    plt.title("Random Forest - First Tree Visualization")
+    plt.title("LB Analysis Random Forest - First Tree Visualization")
     plt.show()
 
     # ----------------------
@@ -489,12 +489,12 @@ def lb_analysis():
     # print("Top features by LassoCV:")
     # print(feature_importance_lasso)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_lasso_abs = feature_importance_lasso.abs().sort_values(ascending=False)
     feature_importance_lasso_abs.plot(kind='bar', color='orange')
-    plt.title("Top Features by LassoCV (Absolute Coefficients)")
-    plt.ylabel("Coefficient Magnitude")
-    plt.xlabel("Features")
+    plt.title("LB Analysis Top Features by LassoCV (Absolute Coefficients)", fontsize=18)
+    plt.ylabel("Coefficient Magnitude", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
@@ -551,16 +551,16 @@ def wr_analysis():
     # print("\nTop features by Random Forest:")
     # print(feature_importance_rf)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_rf.plot(kind='bar')
-    plt.title("Top Features by Random Forest")
-    plt.ylabel("Importance")
-    plt.xlabel("Features")
+    plt.title("WR Analysis Top Features by Random Forest", fontsize=18)
+    plt.ylabel("Importance", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
 
-    plt.figure(figsize=(20, 10))
+    plt.figure(figsize=(20, 10), dpi=300)
     # Plot the first tree in the forest
     plot_tree(
         rf.estimators_[0],
@@ -569,7 +569,7 @@ def wr_analysis():
         rounded=True,
         fontsize=10
     )
-    plt.title("Random Forest - First Tree Visualization")
+    plt.title("WR Analysis Random Forest - First Tree Visualization", fontsize=18)
     plt.show()
 
     # ----------------------
@@ -583,12 +583,12 @@ def wr_analysis():
     # print("Top features by LassoCV:")
     # print(feature_importance_lasso)
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6), dpi=300)
     feature_importance_lasso_abs = feature_importance_lasso.abs().sort_values(ascending=False)
     feature_importance_lasso_abs.plot(kind='bar', color='orange')
-    plt.title("Top Features by LassoCV (Absolute Coefficients)")
-    plt.ylabel("Coefficient Magnitude")
-    plt.xlabel("Features")
+    plt.title("WR Analysis Top Features by LassoCV (Absolute Coefficients)", fontsize=18)
+    plt.ylabel("Coefficient Magnitude", fontsize=14)
+    plt.xlabel("Features", fontsize=14)
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
