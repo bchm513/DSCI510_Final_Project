@@ -1,5 +1,8 @@
-aiohttp
-tenacity
 pandas
 duckdb
+scikit-learn
+matplotlib
+requests
+aiohttp
+tenacity
 python-dotenv
